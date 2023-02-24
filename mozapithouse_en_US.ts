@@ -3090,7 +3090,7 @@ toggle the left rocker to the left</translation>
     </message>
     <message>
         <source>Minimize to system tray</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimize to system tray</translation>
     </message>
     <message>
         <source>备份预设库目录失败</source>
@@ -3486,7 +3486,7 @@ If a Preset Mode corresponds to multiple presets, hovering over the correspondin
     </message>
     <message>
         <source>support@gudsen.com</source>
-        <translation type="unfinished"></translation>
+        <translation>support@gudsen.com</translation>
     </message>
     <message>
         <source>检测到程序没有管理员权限</source>
