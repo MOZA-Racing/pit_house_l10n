@@ -16,6 +16,6 @@ It is most welcome to contribute if you found some issue, or want to help us wit
 
 # Translation Tools
 
-[Download Qt Linguist Tools](https://cdn.gudsen.com/simulation_game/rs21repository/installer/Qt_linguist_tools.zip)
+[Download Qt Linguist Tools](https://cdn.gudsen.vip/simulation_game/rs21repository/installer/Qt_Linguist_Tools.zip)
 
 See also https://doc.qt.io/qt-5/linguist-translators.html
