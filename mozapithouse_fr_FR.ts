@@ -9,7 +9,7 @@
     </message>
     <message>
         <source>USB</source>
-        <translation type="unfinished">USB</translation>
+        <translation>USB</translation>
     </message>
     <message>
         <source>、</source>
@@ -37,7 +37,7 @@
     </message>
     <message>
         <source>，</source>
-        <translation type="unfinished">, </translation>
+        <translation>,</translation>
     </message>
     <message>
         <source>查看手动教程</source>
@@ -179,7 +179,7 @@
     </message>
     <message>
         <source>3、希望力反馈在某区间的变化率更小，力反馈更恒定，操控受力反馈的影响更小</source>
-        <translation type="unfinished">2、Want to have a greater rate of change of force feedback in a certain interval, so that the changes in vehicle dynamics can be felt more clearly</translation>
+        <translation>2、Vous souhaitez que le retour de force varie plus rapidement dans un intervalle spécifique, afin de mieux ressentir les changements dans la dynamique du véhicule</translation>
     </message>
     <message>
         <source>修改DPI缩放后，需要重启程序才能生效</source>
@@ -259,11 +259,11 @@ R21 : 21Nm</translation>
     </message>
     <message>
         <source>左拇指旋钮</source>
-        <translation>Bouton rotatif de pouce gauche</translation>
+        <translation type="unfinished">bouton rotatif de pouce gauche</translation>
     </message>
     <message>
         <source>异常,%1</source>
-        <translation type="unfinished">Exception,%1</translation>
+        <translation>Exception,%1</translation>
     </message>
     <message>
         <source>不限制基座的输出扭矩</source>
@@ -368,39 +368,39 @@ Plus cette valeur est élevée, plus le retour de force est fort, plus le retour
     </message>
     <message>
         <source>方程式V1</source>
-        <translation type="unfinished">Formula Style v1</translation>
+        <translation>Formula Style v1</translation>
     </message>
     <message>
         <source>方程式V2</source>
-        <translation type="unfinished">Formula Style v2</translation>
+        <translation>Formula Style v2</translation>
     </message>
     <message>
         <source>方程式V3</source>
-        <translation type="unfinished">Formula Style v3</translation>
+        <translation>Formula Style v3</translation>
     </message>
     <message>
         <source>方程式V4</source>
-        <translation type="unfinished">Formula Style v4</translation>
+        <translation>Formula Style v4</translation>
     </message>
     <message>
         <source>方程式V5</source>
-        <translation type="unfinished">Formula Style v5</translation>
+        <translation>Formula Style v5</translation>
     </message>
     <message>
         <source>方程式V6</source>
-        <translation type="unfinished">Formula Style v6</translation>
+        <translation>Formula Style v6</translation>
     </message>
     <message>
         <source>方程式V7</source>
-        <translation type="unfinished">Formula Style v7</translation>
+        <translation>Formula Style v7</translation>
     </message>
     <message>
         <source>方程式V8</source>
-        <translation type="unfinished">Formula Style v8</translation>
+        <translation>Formula Style v8</translation>
     </message>
     <message>
         <source>方程式V9</source>
-        <translation type="unfinished">Formula Style v9</translation>
+        <translation>Formula Style v9</translation>
     </message>
     <message>
         <source>请重新校准，确保所有拨片都有被完全按压，否则拨片功能将无法正常使用。</source>
@@ -479,7 +479,7 @@ Sortie: %2</translation>
     </message>
     <message>
         <source>右摇杆</source>
-        <translation>Stick droit</translation>
+        <translation>stick droit</translation>
     </message>
     <message>
         <source>请输入激活码</source>
@@ -495,7 +495,7 @@ Sortie: %2</translation>
     </message>
     <message>
         <source>右旋钮</source>
-        <translation>Seleceur rotatif droit</translation>
+        <translation>Selecteur rotatif droit</translation>
     </message>
     <message>
         <source>更新安装</source>
@@ -539,7 +539,7 @@ Sortie: %2</translation>
     </message>
     <message>
         <source>起始点调节</source>
-        <translation type="unfinished">Start</translation>
+        <translation>Réglage du point d&apos;origine</translation>
     </message>
     <message>
         <source>ABS设置</source>
@@ -599,19 +599,19 @@ Sortie: %2</translation>
     </message>
     <message>
         <source>RS V2 方向盘</source>
-        <translation type="unfinished">RS V2 Steering Wheel</translation>
+        <translation>RS V2 Steering Wheel</translation>
     </message>
     <message>
         <source>GS V2 方向盘</source>
-        <translation type="unfinished">GS V2 Steering Wheel</translation>
+        <translation>GS V2 Steering Wheel</translation>
     </message>
     <message>
         <source>CS V2 方向盘</source>
-        <translation type="unfinished">CS V2 Steering Wheel</translation>
+        <translation>CS V2 Steering Wheel</translation>
     </message>
     <message>
         <source>（主控制器）</source>
-        <translation type="unfinished">(Main Controller)</translation>
+        <translation>(contrôleur principal)</translation>
     </message>
     <message>
         <source>文件路径：%1</source>
@@ -619,11 +619,11 @@ Sortie: %2</translation>
     </message>
     <message>
         <source>MOZA Pit House</source>
-        <translation type="unfinished">MOZA Pit House</translation>
+        <translation>MOZA Pit House</translation>
     </message>
     <message>
         <source>踏板接口</source>
-        <translation type="unfinished">Pedal interface</translation>
+        <translation>Interface de la pédale</translation>
     </message>
     <message>
         <source>激活失败，激活码不正确，请联系客服！</source>
@@ -703,7 +703,7 @@ Nous vous recommandons de configurer le jeu avant de le démarrer.</translation>
     </message>
     <message>
         <source>摄氏度</source>
-        <translation type="unfinished">Celsius</translation>
+        <translation>Celsius</translation>
     </message>
     <message>
         <source>方向盘接入检测</source>
@@ -787,7 +787,7 @@ Nous vous recommandons de configurer le jeu avant de le démarrer.</translation>
     </message>
     <message>
         <source>GT赛车</source>
-        <translation type="unfinished">GT</translation>
+        <translation>GT</translation>
     </message>
     <message>
         <source>60kmh过沙地</source>
@@ -795,7 +795,7 @@ Nous vous recommandons de configurer le jeu avant de le démarrer.</translation>
     </message>
     <message>
         <source>(0~终点)</source>
-        <translation type="unfinished">(0~Saturation)</translation>
+        <translation>(0~Saturation)</translation>
     </message>
     <message>
         <source>配置文件异常，请用户手动删除该文件后启动游戏生成新的配置文件，生成后退出游戏再配置。
@@ -873,7 +873,7 @@ Nous vous recommandons de configurer le jeu avant de le démarrer.</translation>
     </message>
     <message>
         <source>蓝牙：%1</source>
-        <translation type="unfinished">Bluetooth: %1</translation>
+        <translation>Bluetooth: %1</translation>
     </message>
     <message>
         <source>无效的components.xml文件</source>
@@ -885,7 +885,7 @@ Nous vous recommandons de configurer le jeu avant de le démarrer.</translation>
     </message>
     <message>
         <source>游戏的路面情况可以感应到全部，力反馈较为强烈</source>
-        <translation type="unfinished">Intense</translation>
+        <translation>Les conditions de la piste dans le jeu peuvent être détectées dans leur intégralité, avec un retour de force plus fort</translation>
     </message>
     <message>
         <source>请按“开始标定”</source>
@@ -913,7 +913,7 @@ Nous vous recommandons de configurer le jeu avant de le démarrer.</translation>
     </message>
     <message>
         <source>稍后提醒</source>
-        <translation>Rappelez-le-moi plus tard</translation>
+        <translation type="unfinished">Plus tard</translation>
     </message>
     <message>
         <source>线性型：全段基座的力反馈与游戏力反馈信号输出等比对应。</source>
@@ -937,11 +937,11 @@ Nous vous recommandons de configurer le jeu avant de le démarrer.</translation>
     </message>
     <message>
         <source>该拨片</source>
-        <translation>Cette palette</translation>
+        <translation>la palette</translation>
     </message>
     <message>
         <source>通用转接器</source>
-        <translation type="unfinished">MOZA Universal HUB</translation>
+        <translation>MOZA Universal HUB</translation>
     </message>
     <message>
         <source>该摇杆</source>
@@ -970,7 +970,7 @@ Nous vous recommandons de configurer le jeu avant de le démarrer.</translation>
     </message>
     <message>
         <source>右拇指旋钮</source>
-        <translation> bouton rotatif de pouce droit</translation>
+        <translation>bouton rotatif de pouce droit</translation>
     </message>
     <message>
         <source>游戏的路面情况基本感应不到，且力反馈平缓</source>
@@ -998,7 +998,7 @@ Nous vous recommandons de configurer le jeu avant de le démarrer.</translation>
     </message>
     <message>
         <source>电源口</source>
-        <translation type="unfinished">Power port</translation>
+        <translation>Port d&apos;alimentation</translation>
     </message>
     <message>
         <source>设备未进入升级模式</source>
@@ -1141,11 +1141,11 @@ R21 : 16Nm</translation>
     </message>
     <message>
         <source>左摇杆</source>
-        <translation>Stick gauche</translation>
+        <translation type="unfinished">stick gauche</translation>
     </message>
     <message>
         <source>（电机控制器）</source>
-        <translation type="unfinished">(Motor Controller)</translation>
+        <translation>(Contrôleur du moteur)</translation>
     </message>
     <message>
         <source>下载失败</source>
@@ -1189,7 +1189,7 @@ R21 : 10Nm</translation>
     </message>
     <message>
         <source>外测版</source>
-        <translation type="unfinished">Beta</translation>
+        <translation>Beta</translation>
     </message>
     <message>
         <source>当前模式</source>
@@ -1277,7 +1277,7 @@ R21 : 10Nm</translation>
     </message>
     <message>
         <source>标准型</source>
-        <translation type="unfinished">Normal</translation>
+        <translation>Normal</translation>
     </message>
     <message>
         <source>基本设置</source>
@@ -1321,7 +1321,7 @@ R21 : 10Nm</translation>
     </message>
     <message>
         <source>该拇指旋钮</source>
-        <translation>Ce bouton rotatif de pouce</translation>
+        <translation>ce bouton rotatif de pouce</translation>
     </message>
     <message>
         <source>升级固件未准备</source>
@@ -1370,7 +1370,7 @@ R21 : 10Nm</translation>
     </message>
     <message>
         <source>方程式赛车</source>
-        <translation type="unfinished">Formula</translation>
+        <translation>Formula</translation>
     </message>
     <message>
         <source>没有最新固件</source>
@@ -1414,7 +1414,7 @@ R21 : 10Nm</translation>
     </message>
     <message>
         <source>固件版本是1.2.0.0或以上：按下右侧下方拨片，拨动该摇杆，可切换仪表盘UI风格</source>
-        <translation>La version du firmware est 1.2.0.0 ou supérieure : Appuyez sur la palette inférieure droite et actionnez cette touche pour changer le style d&apos;interface utilisateur du Digital Dash</translation>
+        <translation type="unfinished">La version du firmware est 1.2.0.0 ou supérieure : Appuyez sur cette palette et actionnez le stick pour changer le style d&apos;interface utilisateur du Digital Dash</translation>
     </message>
     <message>
         <source>下载包扩展数据失败</source>
@@ -1518,11 +1518,11 @@ R21 : 10Nm</translation>
     </message>
     <message>
         <source>方程式V10</source>
-        <translation type="unfinished">Formula Style v10</translation>
+        <translation>Formula Style v10</translation>
     </message>
     <message>
         <source>方程式V11</source>
-        <translation type="unfinished">Formula Style v11</translation>
+        <translation>Formula Style v11</translation>
     </message>
     <message>
         <source>按下TC CON旋钮+向右拨动MENU摇杆</source>
@@ -1554,7 +1554,7 @@ R21 : 10Nm</translation>
     </message>
     <message>
         <source>漂移模式</source>
-        <translation type="unfinished">Drift</translation>
+        <translation>Drift</translation>
     </message>
     <message>
         <source>有新的固件可升级</source>
@@ -1638,7 +1638,7 @@ R21 : 10Nm</translation>
     </message>
     <message>
         <source>暂无设备接入</source>
-        <translation type="unfinished">No equipment access at this time</translation>
+        <translation>Pas d&apos;accès  pour le moment</translation>
     </message>
     <message>
         <source>MOZA Pit House 遇到错误，给您带来的不便，我们深表歉意！</source>
@@ -1754,7 +1754,7 @@ R21 : 10Nm</translation>
     </message>
     <message>
         <source>左离合拨片+按下右侧摇杆</source>
-        <translation>Palette d&apos;embrayage gauche + appuyez sur le stick de droite</translation>
+        <translation>Palette d&apos;embrayage gauche + appuyez sur le selecteur de droite</translation>
     </message>
     <message>
         <source>联系方式（必填）</source>
@@ -1786,7 +1786,7 @@ R21 : 10Nm</translation>
     </message>
     <message>
         <source>### %1 固件 v%2</source>
-        <translation type="unfinished">### %1 Firmware v%2</translation>
+        <translation>### %1 Firmware v%2</translation>
     </message>
     <message>
         <source>检测到您配置过RBR的教程，该教程的某些配置会导致地平线4和地平线5游戏无法正常运行。请进入RBR配置页面点击&apos;力反馈教程&apos;按钮后根据提示取消RBR配置。</source>
@@ -1874,7 +1874,7 @@ R21 : 10Nm</translation>
     </message>
     <message>
         <source>终点调节</source>
-        <translation type="unfinished">Saturation</translation>
+        <translation>Saturation</translation>
     </message>
     <message>
         <source>开启此功能，可抑制方向盘的快速振荡，让手感更平顺，同时保护车手。但会降低一定的动态效果。</source>
@@ -1894,7 +1894,7 @@ R21 : 10Nm</translation>
     </message>
     <message>
         <source>%1未连接</source>
-        <translation>Signal perdu, %1 déconnecté</translation>
+        <translation type="unfinished">Signal perdu, %1 déconnecté(e)</translation>
     </message>
     <message>
         <source>未激活</source>
@@ -1902,7 +1902,7 @@ R21 : 10Nm</translation>
     </message>
     <message>
         <source>仪表盘</source>
-        <translation type="unfinished">Digital Dash</translation>
+        <translation>Digital Dash</translation>
     </message>
     <message>
         <source>此选项可调节在合成轴模式下的双离合器接合点，默认为50%，设置范围为%1%-%2%，以适应不同用户的双离合起步习惯。</source>
@@ -1992,11 +1992,11 @@ Une vitesse de retour élevée est plus adaptée au drift, tandis qu&apos;une vi
     </message>
     <message>
         <source>固件版本是1.2.0.0或以上：按下该拨片，拨动左摇杆，可切换仪表盘UI风格</source>
-        <translation>La version du firmware est 1.2.0.0 ou supérieure : Appuyez sur la palette inférieure gauche et actionnez cette touche pour changer le style d&apos;interface utilisateur du Digital Dash</translation>
+        <translation type="unfinished">La version du firmware est 1.2.0.0 ou supérieure : Appuyez sur la palette et actionnez le stick pour changer le style d&apos;interface utilisateur du Digital Dash</translation>
     </message>
     <message>
         <source>从本地文件打开固件</source>
-        <translation type="unfinished">Open the firmware from a local file</translation>
+        <translation>Ouvrir le firmware à partir d&apos;un fichier en local</translation>
     </message>
     <message>
         <source>取消标定</source>
@@ -2104,7 +2104,7 @@ Une vitesse de retour élevée est plus adaptée au drift, tandis qu&apos;une vi
     </message>
     <message>
         <source>测试版</source>
-        <translation type="unfinished">Test</translation>
+        <translation>Test</translation>
     </message>
     <message>
         <source>离合测试</source>
@@ -2180,7 +2180,7 @@ Une vitesse de retour élevée est plus adaptée au drift, tandis qu&apos;une vi
     </message>
     <message>
         <source>转接器</source>
-        <translation type="unfinished">HUB</translation>
+        <translation>HUB</translation>
     </message>
     <message>
         <source>写入xml内容失败</source>
@@ -2280,7 +2280,7 @@ Une vitesse de retour élevée est plus adaptée au drift, tandis qu&apos;une vi
     </message>
     <message>
         <source>左离合拨片+按下左侧摇杆</source>
-        <translation>Palette d&apos;embrayage gauche + appuyez sur le stick de gauche</translation>
+        <translation type="unfinished">Palette d&apos;embrayage gauche + appuyez sur le selecteur de gauche</translation>
     </message>
     <message>
         <source>电机控制器：%1</source>
@@ -2665,7 +2665,7 @@ Modifiez l&apos;un des paramètres, et l&apos;autre paramètre sera modifié en 
     </message>
     <message>
         <source>华氏度</source>
-        <translation type="unfinished">Fahrenheit</translation>
+        <translation>Fahrenheit</translation>
     </message>
     <message>
         <source>下载Updates.xml文件失败</source>
@@ -2673,7 +2673,7 @@ Modifiez l&apos;un des paramètres, et l&apos;autre paramètre sera modifié en 
     </message>
     <message>
         <source>左侧下方拨片</source>
-        <translation>Palette en bas à gauche</translation>
+        <translation type="unfinished">la palette en bas à gauche</translation>
     </message>
     <message>
         <source>导电滑环</source>
@@ -3029,7 +3029,7 @@ Modifiez l&apos;un des paramètres, et l&apos;autre paramètre sera modifié en 
     </message>
     <message>
         <source>HBP 手刹</source>
-        <translation type="unfinished">HBP Handbrake</translation>
+        <translation>HBP Handbrake</translation>
     </message>
     <message>
         <source>按键</source>
@@ -3057,7 +3057,7 @@ Modifiez l&apos;un des paramètres, et l&apos;autre paramètre sera modifié en 
     </message>
     <message>
         <source>基础</source>
-        <translation type="unfinished">Base</translation>
+        <translation>Base</translation>
     </message>
     <message>
         <source>R5 基座</source>
@@ -3085,7 +3085,7 @@ Modifiez l&apos;un des paramètres, et l&apos;autre paramètre sera modifié en 
     </message>
     <message>
         <source>旋钮</source>
-        <translation>Bouton rotatif</translation>
+        <translation>bouton rotatif</translation>
     </message>
     <message>
         <source>R10 基座</source>
@@ -3125,7 +3125,7 @@ Modifiez l&apos;un des paramètres, et l&apos;autre paramètre sera modifié en 
     </message>
     <message>
         <source>更多</source>
-        <translation type="unfinished">More</translation>
+        <translation>Plus</translation>
     </message>
     <message>
         <source>完成</source>
@@ -3137,7 +3137,7 @@ Modifiez l&apos;un des paramètres, et l&apos;autre paramètre sera modifié en 
     </message>
     <message>
         <source>标准</source>
-        <translation>Plein</translation>
+        <translation type="unfinished">Standard</translation>
     </message>
     <message>
         <source>标定</source>
@@ -3177,7 +3177,7 @@ Modifiez l&apos;un des paramètres, et l&apos;autre paramètre sera modifié en 
     </message>
     <message>
         <source>英制</source>
-        <translation type="unfinished">MPH</translation>
+        <translation>MPH</translation>
     </message>
     <message>
         <source>力反馈教程</source>
@@ -3201,7 +3201,7 @@ Modifiez l&apos;un des paramètres, et l&apos;autre paramètre sera modifié en 
     </message>
     <message>
         <source>测试</source>
-        <translation type="unfinished">Test</translation>
+        <translation>Test</translation>
     </message>
     <message>
         <source>配置</source>
@@ -3265,7 +3265,7 @@ Modifiez l&apos;un des paramètres, et l&apos;autre paramètre sera modifié en 
     </message>
     <message>
         <source>超跑</source>
-        <translation type="unfinished">Hypercar</translation>
+        <translation>Hypercar</translation>
     </message>
     <message>
         <source>症状（必填）</source>
@@ -3321,7 +3321,7 @@ Modifiez l&apos;un des paramètres, et l&apos;autre paramètre sera modifié en 
     </message>
     <message>
         <source>(终点~100)</source>
-        <translation type="unfinished">(Saturation~100)</translation>
+        <translation>(Saturation~100)</translation>
     </message>
     <message>
         <source>CRP2 踏板</source>
@@ -3425,7 +3425,7 @@ Modifiez l&apos;un des paramètres, et l&apos;autre paramètre sera modifié en 
     </message>
     <message>
         <source>请确保程序拥有管理员权限，否则会导致失败</source>
-        <translation type="unfinished">Please make sure that the program has administrator privileges, otherwise it will fail</translation>
+        <translation>Veuillez vous assurer que ce programme dispose de privilèges administrateur, sinon il ne marchera pas</translation>
     </message>
     <message>
         <source> - 针对电机转动时的齿槽转矩，进行了算法补偿，因此本次更新需要在“恢复和重置”页中&lt;strong&gt;&lt;font color=&quot;red&quot;&gt;重新标定&lt;/font&gt;&lt;/strong&gt;电机相关参数。</source>
@@ -3433,147 +3433,147 @@ Modifiez l&apos;un des paramètres, et l&apos;autre paramètre sera modifié en 
     </message>
     <message>
         <source>换挡器</source>
-        <translation>Levier de vitesse</translation>
+        <translation>Levier de vitesses</translation>
     </message>
     <message>
         <source>Press</source>
-        <translation type="unfinished">Press</translation>
+        <translation>Appuyer</translation>
     </message>
     <message>
         <source>Release</source>
-        <translation type="unfinished">Release</translation>
+        <translation>Relâcher</translation>
     </message>
     <message>
         <source>GT版V1</source>
-        <translation type="unfinished">GT Style v1</translation>
+        <translation>GT Style v1</translation>
     </message>
     <message>
         <source>Config</source>
-        <translation type="unfinished">Config</translation>
+        <translation>Configuration</translation>
     </message>
     <message>
         <source>GT版V2</source>
-        <translation type="unfinished">GT Style v2</translation>
+        <translation>GT Style v2</translation>
     </message>
     <message>
         <source>Minimize to system tray</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimiser dans la barre des tâches</translation>
     </message>
     <message>
         <source>HGP 换挡器</source>
-        <translation type="unfinished">HGP Shifter</translation>
+        <translation>HGP Shifter</translation>
     </message>
     <message>
         <source>E-Stop</source>
-        <translation type="unfinished">E-Stop</translation>
+        <translation>E-Stop</translation>
     </message>
     <message>
         <source>support@gudsen.com</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>基座力反馈曲线</source>
-        <translation type="unfinished">Base FFB Curve</translation>
+        <translation>Courbe de FFB</translation>
     </message>
     <message>
         <source>检测到程序没有管理员权限</source>
-        <translation type="unfinished">No administrator privileges detected for the program</translation>
+        <translation>No administrator privileges detected for the program</translation>
     </message>
     <message>
         <source>注意：点击后将以管理员身份重启本程序</source>
-        <translation type="unfinished">Note: Clicking on it will restart the program as an administrator</translation>
+        <translation>Note : En cliquant sur ce bouton, le programme sera relancé en tant qu&apos;administrateur</translation>
     </message>
     <message>
         <source>设置</source>
-        <translation type="unfinished">Setting</translation>
+        <translation>Réglage</translation>
     </message>
     <message>
         <source>输出曲线调节: 提供4种预设,对应物理行程与信号输出的不同关系。</source>
-        <translation type="unfinished">Output curve adjustment: 4 presets are provided, corresponding to different relationships between physical travel and signal output.</translation>
+        <translation>Réglage de la courbe de sortie : 4 préréglages sont fournis, correspondant à différentes situations entre la course physique et le signal de sortie.</translation>
     </message>
     <message>
         <source>换挡器未连接</source>
-        <translation type="unfinished">Shifter not connected</translation>
+        <translation>Levier de vitesses non connecté</translation>
     </message>
     <message>
         <source>换挡器处于升级模式</source>
-        <translation type="unfinished">Shifter in upgrade mode</translation>
+        <translation>Le Levier de vitesses en mode mise à jour</translation>
     </message>
     <message>
         <source>智能降挡补油</source>
-        <translation type="unfinished">Auto Downshift Throttle Blip</translation>
+        <translation>auto blip</translation>
     </message>
     <message>
         <source>开启该功能后，在刹车降挡的场景下，会自动补油，而不需要使用跟趾技术。在特殊场景下，可能会误作动，如不需使用此功能时可关闭。</source>
-        <translation type="unfinished">When this function is turned on, in scenarios where the brake is downshifted, it will automatically refill the fuel without the need to use the heel-toe technique. In special scenarios, it may act by mistake and can be turned off if this function is not needed.</translation>
+        <translation>Lorsque cette fonction est activée, dans les phases de freinages une brève pression sur l’accélérateur sera automatiquement effectuée au rétrogradage sans qu&apos;il soit nécessaire d&apos;utiliser la technique du talon-pointe. Dans certains scénarios, avec certains véhicules, ou si vous maitrisez la technique du talon-pointe, cette fonction peut être désactivée.</translation>
     </message>
     <message>
         <source>&lt;font color=&quot;red&quot;&gt;开启智能降挡补油功能时请关闭游戏中自带的降挡补油功能。&lt;/font&gt;</source>
-        <translation type="unfinished">&lt;font color=&quot;red&quot;&gt;Please turn off the downshift refueling function that comes with the game when you turn on the intelligent downshift refueling function.&lt;/font&gt;</translation>
+        <translation>&lt;font color=&quot;red&quot;&gt;Veuillez désactiver la fonction d&apos;auto blip fournie avec le jeu lorsque vous activez cette fonction.&lt;/font&gt;</translation>
     </message>
     <message>
         <source>踏板版本不支持该功能，请升级</source>
-        <translation type="unfinished">The pedal version does not support this feature, please update the firmware</translation>
+        <translation>La version du firmware de la pédale ne prend pas en charge cette fonction, veuillez mettre à jour le firmware.</translation>
     </message>
     <message>
         <source>该功能需连接MOZA的踏板才能开启</source>
-        <translation type="unfinished">This function can only be enabled when the MOZA pedal is connected</translation>
+        <translation>Cette fonction ne peut être activée que lorsque le pédalier MOZA est connecté</translation>
     </message>
     <message>
         <source>补油输出</source>
-        <translation type="unfinished">Auto Blip Output</translation>
+        <translation>Pourcentage d&apos;accélération de l&apos;auto blip</translation>
     </message>
     <message>
         <source>可调节补油时的油门开度，不同的车型所需的油门开度可能不同，可以根据车型和习惯进行设置</source>
-        <translation type="unfinished">Adjustable throttle opening for refueling, the required throttle opening may be different for different models, and can be set according to the model and habits</translation>
+        <translation>Ouverture de l&apos;accélérateur réglable pour l&apos;auto blip, l&apos;ouverture de l&apos;accélérateur requise peut être différente selon les types de véhicules, et peut être réglée en fonction du modèle et des habitudes</translation>
     </message>
     <message>
         <source>补油持续时间</source>
-        <translation type="unfinished">Auto Blip Duration</translation>
+        <translation>Durée de l&apos;auto blip</translation>
     </message>
     <message>
         <source>可调节补油时油门作动的时间，不同的车型所需的油门作动时间可能不同，可以根据车型和习惯进行设置</source>
-        <translation type="unfinished">Adjustable throttle action time when refueling, different models may require different throttle action time, you can set according to the model and habit</translation>
+        <translation>Temps réglable pour l&apos;action de l&apos;accélérateur lors de l&apos;auto blip, différents modèles peuvent nécessiter un temps différent pour l&apos;action de l&apos;accélérateur, vous pouvez le régler en fonction du modèle et des habitudes</translation>
     </message>
     <message>
         <source>短时间</source>
-        <translation type="unfinished">Short</translation>
+        <translation>Courte durée</translation>
     </message>
     <message>
         <source>长时间</source>
-        <translation type="unfinished">Long</translation>
+        <translation>Longue durée</translation>
     </message>
     <message>
         <source>在10s内, 按压并从最左到最右来回移动摇杆</source>
-        <translation type="unfinished">Within 10s, press and move the joystick back and forth from far left to far right</translation>
+        <translation>Dans les 10s, appuyez sur le joystick et déplacez-le d&apos;avant en arrière, de gauche à droite</translation>
     </message>
     <message>
         <source>操作进行中，请耐心等待...</source>
-        <translation type="unfinished">Operation is in progress, please wait patiently...</translation>
+        <translation>Opération en cours, veuillez patienter...</translation>
     </message>
     <message>
         <source>在10s内，请完全按下并完全松开一次踏板</source>
-        <translation type="unfinished">Within 10s, please press and release the pedal completely once</translation>
+        <translation>Dans un délai de 10s, veuillez appuyer complètement sur la pédale et la relâcher une fois</translation>
     </message>
     <message>
         <source>GS/FSR 方向盘</source>
-        <translation type="unfinished">GS/FSR Steering Wheel</translation>
+        <translation>GS/FSR Steering Wheel</translation>
     </message>
     <message>
         <source>GS/FSR方向盘实际惯量比</source>
-        <translation type="unfinished">GS/FSR Steering Wheel Inertia Ratio</translation>
+        <translation>Ratio d&apos;inertie du GS/FSR Steering Wheel</translation>
     </message>
     <message>
         <source>CS/RS 方向盘</source>
-        <translation type="unfinished">CS/RS Steering Wheel</translation>
+        <translation>CS/RS Steering Wheel</translation>
     </message>
     <message>
         <source>CS/RS方向盘实际惯量比</source>
-        <translation type="unfinished">CS/RS Steering Wheel Inertia Ratio</translation>
+        <translation>Ratio d&apos;inertie du CS/RS Steering Wheel</translation>
     </message>
     <message>
         <source>Links</source>
-        <translation type="unfinished"></translation>
+        <translation>Liens</translation>
     </message>
     <message>
         <source>正在升级，请耐心等待...</source>
