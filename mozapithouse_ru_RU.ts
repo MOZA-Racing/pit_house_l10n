@@ -218,10 +218,6 @@
         <translation>Связаться с нами</translation>
     </message>
     <message>
-        <source>support@gudsen.com</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>正在重启基座</source>
         <translation>Сброс настроек базы</translation>
     </message>
@@ -239,11 +235,11 @@
     </message>
     <message>
         <source>基座软重启</source>
-        <translation>Мягкая перезагрузка</translation>
+        <translation>Перезагрузка базы</translation>
     </message>
     <message>
         <source>重启</source>
-        <translation>Жёсткая перезагрузка</translation>
+        <translation>принудительная перезагрузка</translation>
     </message>
     <message>
         <source>基座的恢复和重置</source>
@@ -267,7 +263,7 @@
     </message>
     <message>
         <source>自动检测</source>
-        <translation>Автоматическое обнаружение </translation>
+        <translation>Автоматическое обнаружение</translation>
     </message>
     <message>
         <source>方向盘自动检测标定</source>
@@ -291,7 +287,7 @@
     </message>
     <message>
         <source>方向盘拨片状态模式</source>
-        <translation>Режим состояния лепестков на руле</translation>
+        <translation>Режим состояния лепестков</translation>
     </message>
     <message>
         <source>状态</source>
@@ -429,7 +425,7 @@
     </message>
     <message>
         <source>开启</source>
-        <translation>Открыть</translation>
+        <translation>Вкл</translation>
     </message>
     <message>
         <source>实验固件指令</source>
@@ -534,7 +530,7 @@
     </message>
     <message>
         <source>请确保程序拥有管理员权限，否则会导致失败</source>
-        <translation type="unfinished">Please make sure that the program has administrator privileges, otherwise it will fail</translation>
+        <translation>Пожалуйста, предоставтье доступ администратора, в противном случае это приведёт к ошибке</translation>
     </message>
     <message>
         <source>确定</source>
@@ -799,62 +795,6 @@
         <translation>Контроллер двигателя: %1</translation>
     </message>
     <message>
-        <source>如果在升级过程中，所有升级进度条超过20秒不动，或反复升级失败时，可重启软件和设备，再重新升级</source>
-        <translation>Если все строки состояния прогресса обновления не двигаются более 20 секунд или происходят ошибки обновления, перезапустите программу и устройство, а затем занова запустите обновление</translation>
-    </message>
-    <message>
-        <source>基座升级成功后，请重启基座再使用</source>
-        <translation>Перезапустите базу руля после обновления</translation>
-    </message>
-    <message>
-        <source>如果在固件升级后出现力反馈丢失等问题，可点击&quot;%1&quot;按钮回到上一个最新的固件版本</source>
-        <translation>Если после обновления ПО возникли проблемы с интенсивностью обратной связи, нажмите кнопку &quot;%1&quot;, чтобы вернуться к прошлой версии ПО</translation>
-    </message>
-    <message>
-        <source>回退固件版本</source>
-        <translation>Откат версии</translation>
-    </message>
-    <message>
-        <source>重要提示</source>
-        <translation>Важные советы</translation>
-    </message>
-    <message>
-        <source>### 本次更新说明</source>
-        <translation>### Описание обновления</translation>
-    </message>
-    <message>
-        <source> - 同步不同设备力回馈解析效果。</source>
-        <translation>Обновление баз до одинаковой версии для обратной связи с рулем.</translation>
-    </message>
-    <message>
-        <source> - 针对电机转动时的齿槽转矩，进行了算法补偿，因此本次更新需要在“恢复和重置”页中&lt;strong&gt;&lt;font color=&quot;red&quot;&gt;重新标定&lt;/font&gt;&lt;/strong&gt;电机相关参数。</source>
-        <translation>– При вращении мотора работает алгоритм компенсации крутящего момента руля, поэтому в этом обновлении необходимо повторно откалибровать параметры двигателя на странице &quot;Восстановление и сброс&quot; &lt;strong&gt;&lt;font color=\&quot;red\&quot;&gt;.</translation>
-    </message>
-    <message>
-        <source>### 重新标定流程(流程必须严格按照顺序)</source>
-        <translation>### Прогресс повторной калибровки (калибровка должна осуществляться в строгом порядке)</translation>
-    </message>
-    <message>
-        <source> - 1.点击“基座参数复位”复位</source>
-        <translation>–1. Нажмите &quot;Сброс параметров базы руля&quot; &quot;Сброс</translation>
-    </message>
-    <message>
-        <source> - 2.点击“基座检测”开始</source>
-        <translation>–2. Нажмите &quot;Обнаружение базы руля&quot; &quot;Начать</translation>
-    </message>
-    <message>
-        <source> - 3.点击“基座标定”开始，注：此时电机会有轻微角度转动，如未转动可重新点击开始</source>
-        <translation>3. Нажмите &quot;Калибровка базы руля&quot; &quot;Старт&quot;. Примечание: во время этого руль будет вращаться под небольшим углом, если этого не происходит, нажмите еще раз, чтобы начать калибровку.</translation>
-    </message>
-    <message>
-        <source> - 4.点击“齿槽转矩标定”，注：此时电机会左右各转一圈，如未转动可重新点击开始</source>
-        <translation>4. Нажмите &quot;Калибровка крутящего момента колеса&quot;. Примечание: во время этого руль повернется на один оборот влево и вправо. Если он не вращается, нажмите еще раз, чтобы начать калибровку.</translation>
-    </message>
-    <message>
-        <source> - 5.手动重启基座</source>
-        <translation>5. Ручной перезапуск базы</translation>
-    </message>
-    <message>
         <source>基座</source>
         <translation>База руля</translation>
     </message>
@@ -869,14 +809,6 @@
     <message>
         <source>手刹</source>
         <translation>Ручник</translation>
-    </message>
-    <message>
-        <source>检查更新</source>
-        <translation>Проверка версии</translation>
-    </message>
-    <message>
-        <source>一键升级所有</source>
-        <translation>Обновить всё в один клик</translation>
     </message>
     <message>
         <source>注意：点击后将会立刻关闭本程序并打开维护工具</source>
@@ -900,7 +832,7 @@
     </message>
     <message>
         <source>更新安装</source>
-        <translation>Установка обновления</translation>
+        <translation>Установить</translation>
     </message>
     <message>
         <source>离合拨片模式</source>
@@ -941,23 +873,23 @@
     </message>
     <message>
         <source>指示灯开关模式</source>
-        <translation>Индикатор оборотов двигателя 1</translation>
+        <translation>Режим настройки оборотов двигателя</translation>
     </message>
     <message>
         <source>转速随动</source>
-        <translation>Индикатор оборотов двигателя 2</translation>
+        <translation>Активировать шкалы</translation>
     </message>
     <message>
         <source>灯光关闭</source>
-        <translation>Выкл</translation>
+        <translation>Отключить</translation>
     </message>
     <message>
         <source>灯光常亮</source>
-        <translation>Вкл</translation>
+        <translation>Применить</translation>
     </message>
     <message>
         <source>指示灯显示模式</source>
-        <translation>Индикатор оборотов двигателя 3</translation>
+        <translation>Настройка на дисплее</translation>
     </message>
     <message>
         <source>模式一</source>
@@ -977,7 +909,7 @@
     </message>
     <message>
         <source>转速提示设置</source>
-        <translation>Индикатор оборотов двигателя 4</translation>
+        <translation>Тип оборотов двигателя</translation>
     </message>
     <message>
         <source>提前型</source>
@@ -985,7 +917,7 @@
     </message>
     <message>
         <source>标准型</source>
-        <translation>Нормальный</translation>
+        <translation>Стандарт</translation>
     </message>
     <message>
         <source>极限型</source>
@@ -993,7 +925,7 @@
     </message>
     <message>
         <source>自定义</source>
-        <translation>Пользовательские настройки</translation>
+        <translation>Регулировка</translation>
     </message>
     <message>
         <source>颜色设置</source>
@@ -1057,7 +989,7 @@
     </message>
     <message>
         <source>组合键说明</source>
-        <translation>Описание клавиш</translation>
+        <translation>Описание ключей</translation>
     </message>
     <message>
         <source>失败</source>
@@ -1065,7 +997,7 @@
     </message>
     <message>
         <source>恢复默认设置</source>
-        <translation>Стандартная настройка</translation>
+        <translation>По умолчанию</translation>
     </message>
     <message>
         <source>导入预设</source>
@@ -1073,7 +1005,7 @@
     </message>
     <message>
         <source>另存为预设</source>
-        <translation>Сохранить настройки</translation>
+        <translation>Сохранить</translation>
     </message>
     <message>
         <source>请按&quot;开始校准&quot;按钮</source>
@@ -1323,7 +1255,7 @@
     </message>
     <message>
         <source>开</source>
-        <translation>Приступить</translation>
+        <translation>Вкл</translation>
     </message>
     <message>
         <source>关</source>
@@ -1481,11 +1413,11 @@
     </message>
     <message>
         <source>同步变化</source>
-        <translation>Настройки синхронизации</translation>
+        <translation>Синхронизировать</translation>
     </message>
     <message>
         <source>专业游戏力回馈强度</source>
-        <translation>Сила оборатной связи руля в режиме проффи</translation>
+        <translation>Игровая отдача</translation>
     </message>
     <message>
         <source>与基础设置的游戏力回馈强度一样，但这里可将游戏力回馈强度最高可设置为游戏输出的2倍。将此处设置满，再将基础设置的电机力回馈设置满，即可使用到电机的最大扭矩效果。由于力矩太大，请逐步增大力回馈尝试，避免危险。</source>
@@ -1509,19 +1441,19 @@
     </message>
     <message>
         <source>游戏力反向</source>
-        <translation>Реверсивная отдача игры</translation>
+        <translation>Реверсивная отдача</translation>
     </message>
     <message>
         <source>在某些游戏需要游戏力反向时打开该配置</source>
-        <translation>Включите эту конфигурацию для игр, требующих реверсивной отдачи.</translation>
+        <translation>Включите эту конфигурацию для игр, требующих реверсивной отдачи</translation>
     </message>
     <message>
         <source>最大输出扭矩限制</source>
-        <translation>Максимальный вывод крутящего момента</translation>
+        <translation>Отдача руля</translation>
     </message>
     <message>
         <source>允许电机的最大输出扭矩。防止过大的力反馈带来的伤害。手劲需求小的用户建议把此参数调小，避免误设置导致力反馈太大。</source>
-        <translation>Максимальная отдача на руль. Предотвращает повреждения вызванные чрезмерной обратной связью. Не опытным пользователям рекомендуется уменьшить этот параметр.</translation>
+        <translation>Предотвращает повреждения вызванные чрезмерной обратной связью. Неопытным пользователям рекомендуется уменьшить этот параметр</translation>
     </message>
     <message>
         <source>限制基座输出最大为峰值扭矩的50%，适合手劲较小或正在进行参数调整的用户</source>
@@ -1541,23 +1473,23 @@
     </message>
     <message>
         <source>手离开保护</source>
-        <translation>Защита в режиме &quot;без рук</translation>
+        <translation>Стабилизация руля</translation>
     </message>
     <message>
         <source>开启后可监测到手脱离方向盘的情况，算法可控制方向盘保持在中位。防止因剧烈晃动带来的惊慌和伤害。对于新手强烈建议将此功能打开。</source>
-        <translation>Стабилизация руля. Алгоритм контролирует, чтобы рулевое колесо оставалось в нейтральном положении. Для не опытных пользователей эту функцию рекомендуется включить.</translation>
+        <translation>Алгоритм контролирует, чтобы рулевое колесо оставалось в нейтральном положении. Для неопытных пользователей эту функцию рекомендуется включить.</translation>
     </message>
     <message>
         <source>方向盘实际惯量比</source>
-        <translation>Инерции рулевого колеса по умолчанию</translation>
+        <translation>Инерция руля</translation>
     </message>
     <message>
         <source>该参数用在手离开保护功能。</source>
-        <translation>Параметр используется для защиты режима &quot;Без рук&quot;.</translation>
+        <translation>Дополнительная настройка стабилизации руля</translation>
     </message>
     <message>
         <source>GS 方向盘</source>
-        <translation>GS Рулевое колесо </translation>
+        <translation>GS Рулевое колесо</translation>
     </message>
     <message>
         <source>ES 方向盘</source>
@@ -1565,11 +1497,11 @@
     </message>
     <message>
         <source>ES方向盘实际惯量比</source>
-        <translation>ES инерция рулевого колеса </translation>
+        <translation>Инерция руля ES</translation>
     </message>
     <message>
         <source>FSR 方向盘</source>
-        <translation>FSR Рулевое колесо </translation>
+        <translation>FSR Рулевое колесо</translation>
     </message>
     <message>
         <source>自然惯量</source>
@@ -1577,9 +1509,7 @@
     </message>
     <message>
         <source>自然惯量可增加方向盘重感，以符合真实赛车的感觉，最大可设置为5倍重感。这是机械阻尼和机械摩擦的补偿功能。自然惯量大会让方向盘转向更稳定，但会有粘滞感，惯量小会让转向更活泼但不易于精细控制，且过小会显得转向不真实。</source>
-        <translation>Естественная инерция может увеличить вес руля, чтобы он соответствовал ощущениям от настоящего гоночного руля. Максимальный вес может быть увеличен в 5 раз. Это функция компенсации механической стабилизации и механического трения. Естественная инерция сделает руль более стабильным, но будет ощущение залипания. 
-Небольшая инерция сделает рулевое управление более подвижным, но тонкое управление будет сложным.
-Маленькая инерция сделает рулевое управление сложным.</translation>
+        <translation>Естественная инерция может увеличить вес руля, чтобы он соответствовал ощущениям от настоящего гоночного руля.</translation>
     </message>
     <message>
         <source>只有当前方向盘的惯量</source>
@@ -1596,8 +1526,11 @@
     <message>
         <source>模拟一个与游戏输出无关的摩擦力效果。可以用来防止方向盘振荡或模拟没有动力转向的汽车的转向齿条。
 与机械阻尼不同的是，机械摩擦是恒定力，与转向速度无关。此数值越大，这个恒定力越大，会让方向盘转向更稳定，但会有粘滞感，摩擦小会让转向更活泼但不易于精细控制，且过小会显得转向不真实。</source>
-        <translation>Имитирует эффект трения, не зависящий от мощности игры. Он используется для предотвращения вибрации руля или имитации рулевой рейки автомобиля без усилителя руля.
-В отличие от механического демпфирования, механическое трение - это постоянная сила, не зависящая от скорости руления. Чем больше значение, тем больше постоянная сила, что сделает рулевое управление более стабильным, но будет ощущение вязкости. Небольшое трение сделает рулевое управление более реалистичным и, вместе с этим, более сложным, а слишком маленькое трение сделает рулевое управление нереалистичным.</translation>
+        <translation>Имитация эффекта трения, не зависит от настроек в игре. Можно использовать для предотвращения колебаний рулевого колеса или имитации связи с рулевой рейкой автомобиля, без гидроусилителя руля.
+В отличие от механической стабилизации представляет собой постоянную силу, не зависящую от скорости руления. Чем больше значение, тем больше сила контроля.
+Большое трение сделает рулевое управление более стабильным, но вызовет ощущение залипания. 
+Небольшое трение сделает рулевое управление более живым.
+Маленькое трение сделает рулевое управление сложным.</translation>
     </message>
     <message>
         <source>完全没有模拟的机械摩擦</source>
@@ -1617,7 +1550,7 @@
     </message>
     <message>
         <source>该参数用于根据游戏中的车速线性增大方向盘机械阻尼，是在机械阻尼的基础上相乘，机械阻尼为0时该功能失效</source>
-        <translation>Этот параметр используется для линейного увеличения механической стабилизации руля в зависимости от скорости в игре, которая умножается на базовое значение механической стабилизации. Когда механическая стабилизация равна 0, параметр отключен.</translation>
+        <translation>Линейне увеличение механической стабилизации руля в зависимости от скорости в игре, которая умножается на базовое значение механической стабилизации. Если механическая стабилизация равна 0, параметр отключен.</translation>
     </message>
     <message>
         <source>完全没有随速阻尼</source>
@@ -1633,11 +1566,11 @@
     </message>
     <message>
         <source>随速阻尼起始点</source>
-        <translation>Занчение начала затухания скорости </translation>
+        <translation>Затухания скорости начинается с</translation>
     </message>
     <message>
         <source>随速阻尼生效的起始车速</source>
-        <translation>Затухание скорости накладывает эффект</translation>
+        <translation>Выберите начальное значение</translation>
     </message>
     <message>
         <source>默认的随速阻尼起始点</source>
@@ -1649,27 +1582,27 @@
     </message>
     <message>
         <source>启用或关闭基座前面的蓝色状态灯。</source>
-        <translation>Активирует или деактивирует подсветку состояния базы на передней панели.</translation>
+        <translation>Активирует или деактивирует подсветку состояния базы на передней панели</translation>
     </message>
     <message>
         <source>软限位刚度</source>
-        <translation>Гибкая настройка жесткости</translation>
+        <translation>Ограничение фиксации</translation>
     </message>
     <message>
         <source>软限位过度阶段斜率</source>
-        <translation>Гибкая настройка углового коэффициента</translation>
+        <translation>Ограничение по фазе</translation>
     </message>
     <message>
         <source>柔软</source>
-        <translation>Мягкий</translation>
+        <translation>Мин.</translation>
     </message>
     <message>
         <source>坚硬</source>
-        <translation>Жесткий</translation>
+        <translation>Макс.</translation>
     </message>
     <message>
         <source>软限位强度</source>
-        <translation>Гибкая настройка интенсивности</translation>
+        <translation>Ограничение отдачи</translation>
     </message>
     <message>
         <source>方向盘转到限位时感受到的力强度。</source>
@@ -1677,47 +1610,23 @@
     </message>
     <message>
         <source>软</source>
-        <translation>Гибкие настройки</translation>
-    </message>
-    <message>
-        <source>R9 : 5Nm
-R16: 8Nm
-R21: 10Nm</source>
-        <translation>R9 : 5Нм
-R16: 8Нм
-R21: 10Нм</translation>
+        <translation>Мин.</translation>
     </message>
     <message>
         <source>中</source>
-        <translation>Посередине</translation>
-    </message>
-    <message>
-        <source>R9 : 7Nm
-R16: 12Nm
-R21: 16Nm</source>
-        <translation>R9 : 7Нм
-R16: 12Нм
-R21: 16Нм</translation>
+        <translation>Стандарт</translation>
     </message>
     <message>
         <source>硬</source>
-        <translation>Жесткий</translation>
-    </message>
-    <message>
-        <source>R9 : 9Nm
-R16: 16Nm
-R21: 21Nm</source>
-        <translation>R9 : 9Нм
-R16: 16Нм
-R21: 21Нм</translation>
+        <translation>Макс.</translation>
     </message>
     <message>
         <source>软限位游戏力强度</source>
-        <translation>Гибкая настройка интенсивности игры</translation>
+        <translation>Ограничение игровой отдачи</translation>
     </message>
     <message>
         <source>方向盘转到限位时是否保留微弱的游戏力反馈。</source>
-        <translation>Руль сохраняет слабую отдачу при довороте руля до предела?</translation>
+        <translation>Руль сохраняет слабую отдачу при довороте руля до предела</translation>
     </message>
     <message>
         <source>当前模式</source>
@@ -1745,19 +1654,19 @@ R21: 21Нм</translation>
     </message>
     <message>
         <source>温控策略</source>
-        <translation type="unfinished">Temperature Control Strategy</translation>
+        <translation>Тип контроля температуры</translation>
     </message>
     <message>
         <source>电机温度衰减控制。</source>
-        <translation>Контроль снижения температуры двигателя</translation>
+        <translation>Выберите параметр</translation>
     </message>
     <message>
         <source>保守温控策略</source>
-        <translation>Поддержка и стратегия контроля температуры</translation>
+        <translation>Сдержанный</translation>
     </message>
     <message>
         <source>基座温度进行更保守的控制，将基座表面的最高温度控制在%1℃左右，但温度过高时会限制力反馈的输出。</source>
-        <translation type="unfinished">The Wheel Base temperature is controlled more conservatively, with the maximum temperature of the Wheel Base surface controlled at about %1 degrees Celsius, but too high a temperature will limit the output of force feedback.</translation>
+        <translation>Температура колесной базы контролируется более сдержано, максимальная температура поверхности колесной базы контролируется на уровне около %1 градусов Цельсия, слишком высокая температура ограничит обратную связь.</translation>
     </message>
     <message>
         <source>激进温控策略</source>
@@ -1765,7 +1674,7 @@ R21: 21Нм</translation>
     </message>
     <message>
         <source>基座温度进行更激进的控制，将基座表面的最高温度控制在%1℃左右，注意长时间使用后不要用手触碰基座金属表面。</source>
-        <translation type="unfinished">For more radical control of Wheel Base temperature, the maximum temperature of base surface should be controlled at about %1 degrees Celsius. Do not touch the metal surface of Wheel Base with your hands after a long time of use.</translation>
+        <translation>Для более радикального контроля температуры колесной базы, максимальная температура поверхности базы должна поддерживаться на уровне около %1 градусов Цельсия. Не прикасайтесь к металлической поверхности колесной базы руками после длительного использования.</translation>
     </message>
     <message>
         <source>曲线预设</source>
@@ -1773,11 +1682,11 @@ R21: 21Нм</translation>
     </message>
     <message>
         <source>线性型：全段基座的力反馈与游戏力反馈信号输出等比对应。</source>
-        <translation>Линейный: Отклик руля от базы соответствует отклику из игры.</translation>
+        <translation>Линейный. Отклик руля от базы соответствует отклику из игры.</translation>
     </message>
     <message>
         <source>S型：前段和尾段基座力反馈的变化削弱，中段基座力反馈的变化增强。</source>
-        <translation>Режим S: Ослаблен отклик вначале и в конце вращения руля, однако усилен отклик по центру. </translation>
+        <translation>Режим S. Ослаблен отклик вначале и в конце вращения руля, однако усилен отклик по центру.</translation>
     </message>
     <message>
         <source>倒S型：前段和尾段基座力反馈的变化增强，中段基座力反馈的变化削弱。</source>
@@ -1785,15 +1694,15 @@ R21: 21Нм</translation>
     </message>
     <message>
         <source>指数型：前中段的基座力反馈变化削弱，中后段基座力反馈的变化增强。</source>
-        <translation>Экспонентный: небольшое изменение отклика руля во фронтально-средней секции усиливает изменение отклика в средне-конечной секции на базе. </translation>
+        <translation>Экспонентный. Небольшое изменение отклика руля во фронтально-средней секции усиливает изменение отклика в средне-конечной секции на базе.</translation>
     </message>
     <message>
         <source>抛物型：前中段的基座力反馈变化增强，中后段基座力反馈的变化削弱。</source>
-        <translation>Параболический: сильное изменение отклика руля во фронтально-средней секции ослабляет измение отклика в средне-конечной секции на базе.</translation>
+        <translation>Параболический. Cильное изменение отклика руля во фронтально-средней секции ослабляет измение отклика в средне-конечной секции на базе.</translation>
     </message>
     <message>
         <source>操作方向盘</source>
-        <translation>Управление рулевым колесом</translation>
+        <translation>Отдача</translation>
     </message>
     <message>
         <source>车身常规颠簸</source>
@@ -1801,27 +1710,27 @@ R21: 21Нм</translation>
     </message>
     <message>
         <source>80kmh过路肩</source>
-        <translation>Ограничение до 80 км/ч при наезде на бордюр</translation>
+        <translation>до 80 км/ч - бордюр</translation>
     </message>
     <message>
         <source>ABS作动震动</source>
-        <translation>Вибрация при срабатывании ABS</translation>
+        <translation>Вибрация ABS</translation>
     </message>
     <message>
         <source>160kmh过路肩</source>
-        <translation>Ограничение до 160 км/ч при наезде на бордюр</translation>
+        <translation>до 160 км/ч - бордюр</translation>
     </message>
     <message>
         <source>80kmh过草地</source>
-        <translation>Ограничение до 80 км/ч на траве</translation>
+        <translation>до 80 км/ч - трава</translation>
     </message>
     <message>
         <source>240kmh过路肩</source>
-        <translation>Ограничение до 240 км/ч при наезде на бордюр</translation>
+        <translation>до 240 км/ч - бордюр</translation>
     </message>
     <message>
         <source>60kmh过沙地</source>
-        <translation>Ограничение до 60 км/ч на песке</translation>
+        <translation>до 60 км/ч - песок</translation>
     </message>
     <message>
         <source>您可以通过路面感知均衡器调节车辆的路感力反馈强度，并且可以对低频到高频的路感等力反馈进行独立调节。
@@ -1832,7 +1741,7 @@ R21: 21Нм</translation>
     </message>
     <message>
         <source>一键设置模式</source>
-        <translation>Настройка в одно касание</translation>
+        <translation>Выбрать шаблон</translation>
     </message>
     <message>
         <source>一键设置模式中的选项来自筛选过的预设。
@@ -1872,22 +1781,21 @@ R21: 21Нм</translation>
     </message>
     <message>
         <source>最大限位/转向角</source>
-        <translation>Отсечка / Угол поворота</translation>
+        <translation>Угол руля / Угол в игре</translation>
     </message>
     <message>
         <source>最大限位角: 方向盘在模拟器基座从左边极限实际转到右边极限的最大物理角度。
 最大转向角: 游戏识别的最大转向角，一般和限位角一致。但在某些特殊游戏会比限位角更大。</source>
-        <translation>Максимальный предельный угол: максимальный физический угол, на который фактически поворачивается рулевое колесо от левой границы до правой границы.
-
-Максимальный рулевой угол: максимальный угол поворота, распознаваемый игрой, обычно совпадает с максимальным предельным углом. Однако в некоторых играх он может превышать этот параметр.</translation>
+        <translation>Угол руля: Макс. физический угол, на который фактически поворачивается рулевое колесо.
+Угол в игре: Макс. угол поворота, распознаваемый игрой, обычно совпадает с углом руля, однако в некоторых играх может превышать этот параметр.</translation>
     </message>
     <message>
         <source>路感灵敏度</source>
-        <translation>Чувствительность дороги</translation>
+        <translation>Чувствительность ДДП</translation>
     </message>
     <message>
         <source>路感灵敏度从0-10，数值越大，路感越强烈，数值越小，路感越轻柔。这个参数与路面感知均衡器页面关联。</source>
-        <translation>Чувствительность датчика дорожного покрытия варьируется от 0 до 10. Чем выше значение, тем сильнее ощущается дорожное покрытие. Чем меньше значение, тем оно мягче. Данный параметр связан со страницей настройки эффектов обратной связи.</translation>
+        <translation>Чувствительность ДДП (датчика дорожного покрытия) варьируется от 0 до 10. Выше значение - жёстче отдача. Ниже значение - мягче отдача.</translation>
     </message>
     <message>
         <source>当路面感知均衡器界面的参数被修改后，此处的路感灵敏度显示会变为红色。重新配置路感灵敏度会覆盖路面感知均衡器参数。</source>
@@ -1903,15 +1811,15 @@ R21: 21Нм</translation>
     </message>
     <message>
         <source>游戏的路面情况基本感应不到，且力反馈平缓</source>
-        <translation>Деликатный: Дорожные условия в игре, в основном, недоступны, обратная связь по усилию слабая.</translation>
+        <translation>Дорожные условия в игре, в основном, недоступны, обратная связь по усилию слабая.</translation>
     </message>
     <message>
         <source>游戏的路面情况可以感应到部分</source>
-        <translation>Нормальный: Дорожные условия в игре ощущаются влияют на управление.</translation>
+        <translation>Дорожные условия в игре ощущаются влияют на управление.</translation>
     </message>
     <message>
         <source>游戏的路面情况可以感应到全部，力反馈较为强烈</source>
-        <translation>Интенсивный: Максимальное погружение в игру.</translation>
+        <translation>Максимальное погружение в игру.</translation>
     </message>
     <message>
         <source>电机力回馈强度</source>
@@ -1945,24 +1853,16 @@ R21: 21Нм</translation>
         <source>调整游戏输出给设备的力回馈整体强度，与游戏的种类和游戏中的力回馈设置相关。
 此数值越高，游戏中输出的力反馈占整体力回馈的比例越大。
 整体力回馈由游戏力回馈和电机力回馈构成。</source>
-        <translation>Параметр регулирует общую силу обратной связи, передаваемую игрой на устройство, в зависимости от типа игры и настроек.
-
-Чем выше это значение, тем больше доля обратной связи, выдаваемой игрой.
-
-Общая обратная связь складывается из обратной связи игры и обратной связи на руле.</translation>
+        <translation>Параметр регулирует силу обратной связи, передаваемую игрой на устройство, в зависимости от типа настроек. Чем выше значение, тем больше обратная связь выдаваемая игрой. Общая обратная связь складывается из обратной связи игры и обратной связи на руле.</translation>
     </message>
     <message>
         <source>方向盘最大转速</source>
-        <translation>Максимальная скорость руля</translation>
+        <translation>Скорость вращения руля</translation>
     </message>
     <message>
         <source>此数值越大，在行进中方向盘回盘的速度则越大。
 高回盘速度较适合漂移玩法，而低回盘速度能使转向更自然更稳定，操控更精准。同时低回盘速度更能保证赛车手的安全。</source>
-        <translation>Выше значение - больше скорость, с которой рулевое колесо вращается во время движения.
-
-Высокая скорость вращения руля больше подходит для режима дрифт, в то время как низкая скорость вращения руля обеспечивает более стабильное управление и болльшую точность. 
-
-Низкая скорость обеспечит безопасность гонщика.</translation>
+        <translation>Больше значение - больше скорость, с которой рулевое колесо вращается во время движения. Высокая скорость вращения руля подходит для режима Drift, в то время как низкая скорость обеспечивает более стабильное управление. </translation>
     </message>
     <message>
         <source>方向盘最高转速的30%，对应了较低的速度</source>
@@ -1978,14 +1878,12 @@ R21: 21Нм</translation>
     </message>
     <message>
         <source>机械回中强度</source>
-        <translation>Механическая отдача</translation>
+        <translation>Механическая отдача руля</translation>
     </message>
     <message>
         <source>模拟出一个任何时候都有的回中力效果，适用于游戏本身就没有力回馈的娱乐赛车游戏。
 数值越大，回中效果越强烈。</source>
-        <translation>Имитирует эффект возврата руля в центр, в любое время, что примениимо для развлекательных гоночных игр, где сама игра не имеет обратной связи.
-
-Чем выше значение, тем сильнее эффект отдачи.</translation>
+        <translation>Эффект возврата руля в центр.  Чем выше значение, тем сильнее эффект отдачи.</translation>
     </message>
     <message>
         <source>完全没有机械回中</source>
@@ -2005,7 +1903,7 @@ R21: 21Нм</translation>
     </message>
     <message>
         <source>机械阻尼</source>
-        <translation>Механическое затухание</translation>
+        <translation>Программная отдача руля</translation>
     </message>
     <message>
         <source>模拟一个与游戏输出无关的阻尼力，阻尼力随着方向盘转速增大而线性地增加。
@@ -2013,13 +1911,9 @@ R21: 21Нм</translation>
 阻尼大会让方向盘转向更稳定，但会有粘滞感，阻尼小会让转向更活泼但不易于精细控制，且过小会显得转向不真实。
 基础设置中的机械阻尼比参数和此页的机械阻尼力参数相互影响。
 修改任意一个参数，另一个参数会跟着改变。</source>
-        <translation>Имитирует зависимость силы от параметров игры. Сила вращения будет линейно увеличивается при повышении скорости вращения рулевого колеса.
-Другими словами, чем быстрее вы управляете автомобилем, тем больше сила возврата колеса в исходное положение. Чем больше это значение, тем сложнее управление, при неизменной скорости вращения руля.
-Повышение управляемости сделает рулевое управление более стабильным, но возникнет ощущение залипания.
-Уменьшение управляемости,  сделает управление более реальным, но сложным для контроля.
-Слишком низкий параметр сделает рулевое управление нереальным.
-Параметр механического трения в главном меню настроек и параметр его силы на этой странице взаимодействуют друг с другом.
-Изменение одного из параметров влияет на другой.</translation>
+        <translation>Сила отдачи будет линейно увеличивается при повышении скорости вращения рулевого колеса.
+Другими словами, чем быстрее вы управляете автомобилем, тем больше сила возврата колеса в исходное положение. Чем больше это значение, тем сложнее управление.
+Параметр механической отдачи и программной отдачи взаимодействуют друг с другом. Изменение одного из параметров влияет на другой.</translation>
     </message>
     <message>
         <source>方向盘的阻力最小，要小心在游戏和电机力回馈设置的强度较大时会导致振荡</source>
@@ -2112,19 +2006,19 @@ R21: 21Нм</translation>
     </message>
     <message>
         <source>基本设置</source>
-        <translation>Основные Настройки</translation>
+        <translation>Основные</translation>
     </message>
     <message>
         <source>专业设置</source>
-        <translation>Продвинутые настройки</translation>
+        <translation>Продвинутые</translation>
     </message>
     <message>
         <source>路面感知均衡器</source>
-        <translation>Эквалайзер FFB эффектов</translation>
+        <translation>FFB эффект</translation>
     </message>
     <message>
         <source>其他设置</source>
-        <translation>Другое </translation>
+        <translation>Дополнительно</translation>
     </message>
     <message>
         <source>加载预设</source>
@@ -2136,7 +2030,7 @@ R21: 21Нм</translation>
     </message>
     <message>
         <source>漂移模式</source>
-        <translation>Режим Дрифт</translation>
+        <translation>Drift</translation>
     </message>
     <message>
         <source>开启后方向盘转速无限制，适合漂移快速抛盘</source>
@@ -2323,14 +2217,6 @@ R21: 21Нм</translation>
         <translation type="unfinished">USB</translation>
     </message>
     <message>
-        <source>电源口</source>
-        <translation>Порт питания</translation>
-    </message>
-    <message>
-        <source>接口</source>
-        <translation>Интерфейс</translation>
-    </message>
-    <message>
         <source>暂无设备接入</source>
         <translation>Нет доступа к оборудованию</translation>
     </message>
@@ -2360,7 +2246,7 @@ R21: 21Нм</translation>
     </message>
     <message>
         <source>曲线</source>
-        <translation>Настройки вращения</translation>
+        <translation>Кривые</translation>
     </message>
     <message>
         <source>行程和死区调节：可通过调整最左和最右的起点和终点调节手刹的行程或消除死区。</source>
@@ -3511,7 +3397,7 @@ R21: 21Нм</translation>
     </message>
     <message>
         <source>基座力反馈曲线</source>
-        <translation type="unfinished">Base FFB Curve</translation>
+        <translation>Кривые FFB</translation>
     </message>
     <message>
         <source>换挡器未连接</source>
@@ -3524,14 +3410,6 @@ R21: 21Нм</translation>
     <message>
         <source>智能降挡补油</source>
         <translation type="unfinished">Auto Downshift Throttle Blip</translation>
-    </message>
-    <message>
-        <source>开启该功能后，在刹车降挡的场景下，会自动补油，而不需要使用跟趾技术。在特殊场景下，可能会误作动，如不需使用此功能时可关闭。</source>
-        <translation type="unfinished">When this function is turned on, in scenarios where the brake is downshifted, it will automatically refill the fuel without the need to use the heel-toe technique. In special scenarios, it may act by mistake and can be turned off if this function is not needed.</translation>
-    </message>
-    <message>
-        <source>&lt;font color=&quot;red&quot;&gt;开启智能降挡补油功能时请关闭游戏中自带的降挡补油功能。&lt;/font&gt;</source>
-        <translation type="unfinished">&lt;font color=&quot;red&quot;&gt;Please turn off the downshift refueling function that comes with the game when you turn on the intelligent downshift refueling function.&lt;/font&gt;</translation>
     </message>
     <message>
         <source>踏板版本不支持该功能，请升级</source>
@@ -3566,10 +3444,6 @@ R21: 21Нм</translation>
         <translation type="unfinished">Long</translation>
     </message>
     <message>
-        <source>在10s内, 按压并从最左到最右来回移动摇杆</source>
-        <translation type="unfinished">Within 10s, press and move the joystick back and forth from far left to far right</translation>
-    </message>
-    <message>
         <source>操作进行中，请耐心等待...</source>
         <translation type="unfinished">Operation is in progress, please wait patiently...</translation>
     </message>
@@ -3579,19 +3453,19 @@ R21: 21Нм</translation>
     </message>
     <message>
         <source>GS/FSR 方向盘</source>
-        <translation type="unfinished">GS/FSR Steering Wheel</translation>
+        <translation>рулевое колесо GS/FSR</translation>
     </message>
     <message>
         <source>GS/FSR方向盘实际惯量比</source>
-        <translation type="unfinished">GS/FSR Steering Wheel Inertia Ratio</translation>
+        <translation>Инерция руля GS/FSR</translation>
     </message>
     <message>
         <source>CS/RS 方向盘</source>
-        <translation type="unfinished">CS/RS Steering Wheel</translation>
+        <translation>рулевое колесо CS/RS</translation>
     </message>
     <message>
         <source>CS/RS方向盘实际惯量比</source>
-        <translation type="unfinished">CS/RS Steering Wheel Inertia Ratio</translation>
+        <translation>Инерция руля CS/RS</translation>
     </message>
     <message>
         <source>Links</source>
@@ -3600,6 +3474,130 @@ R21: 21Нм</translation>
     <message>
         <source>正在升级，请耐心等待...</source>
         <translation>Идет обновление, пожалуйста, подождите...</translation>
+    </message>
+    <message>
+        <source>遥测调试助手</source>
+        <translation type="unfinished">Telemetry debugging assistant</translation>
+    </message>
+    <message>
+        <source>用于调试遥测数据不同步的问题。</source>
+        <translation type="unfinished">Used to debug telemetry data out of sync.</translation>
+    </message>
+    <message>
+        <source>注意：调试过程中可以会出现卡顿，cpu占用高等异常</source>
+        <translation type="unfinished">Note: debugging process can be lagging, cpu occupation high exception</translation>
+    </message>
+    <message>
+        <source>开启该功能后，在刹车降挡的场景下，会自动补油，而不需要使用跟趾技术。</source>
+        <translation type="unfinished">With this feature turned on, fuel is automatically replenished in the event of a brake downshift without the need to use heel-toe technology.</translation>
+    </message>
+    <message>
+        <source>在特殊场景下，可能会误作动，如不需使用此功能时可关闭。</source>
+        <translation type="unfinished">In special scenarios, it may act by mistake, so you can turn it off if you don&apos;t need to use this function.</translation>
+    </message>
+    <message>
+        <source>&lt;font color=&quot;red&quot;&gt;开启智能降挡补油功能时请关闭游戏中自带的降挡补油功能。&lt;/font&gt;</source>
+        <translation type="unfinished">&lt;font color=&quot;red&quot;&gt;Please turn off the downshift function that comes with the game when you turn on the smart downshift function to refill the fuel.&lt;/font&gt;</translation>
+    </message>
+    <message>
+        <source>10s内按压换挡杆，并从最左到最右来回移动换挡杆。</source>
+        <translation type="unfinished">Press the shift lever and move it back and forth from far left to far right within 10s.</translation>
+    </message>
+    <message>
+        <source>&lt;font color=&quot;red&quot;&gt;注意不需要挂入任何档位。&lt;/font&gt;</source>
+        <translation type="unfinished">&lt;font color=&quot;red&quot;&gt;Note that you do not need to put it into any gear.&lt;/font&gt;</translation>
+    </message>
+    <message>
+        <source>接口1/2/3</source>
+        <translation>Интерфейс 1/2/3</translation>
+    </message>
+    <message>
+        <source>电源</source>
+        <translation type="unfinished">Auxiliary Power Supply</translation>
+    </message>
+    <message>
+        <source>基座接口</source>
+        <translation type="unfinished">Wheel Base Interface</translation>
+    </message>
+    <message>
+        <source>接口</source>
+        <translation type="unfinished">Interface</translation>
+    </message>
+    <message>
+        <source>暂不支持该设备</source>
+        <translation type="unfinished">This device is not supported</translation>
+    </message>
+    <message>
+        <source>如果在升级过程中，所有升级进度条超过20秒不动，或反复升级失败时，可重启软件和设备，再重新升级</source>
+        <translation type="unfinished">If all upgrade progress bars do not move for more than 20 seconds during the upgrade process, or if the upgrade fails repeatedly, you can restart the software and the device, and then re-upgrade</translation>
+    </message>
+    <message>
+        <source>基座升级成功后，请重启基座再使用</source>
+        <translation type="unfinished">After the Wheel Base is successfully upgraded, please restart the Wheel Base and use it again</translation>
+    </message>
+    <message>
+        <source>如果在固件升级后出现力反馈丢失等问题，可点击&quot;%1&quot;按钮回到上一个最新的固件版本</source>
+        <translation type="unfinished">If you have problems such as loss of force feedback after a firmware upgrade, click the &quot;%1&quot; button to go back to the previous latest firmware version</translation>
+    </message>
+    <message>
+        <source>回退固件版本</source>
+        <translation type="unfinished">Rollback firmware version</translation>
+    </message>
+    <message>
+        <source>重要提示</source>
+        <translation type="unfinished">Important Tips</translation>
+    </message>
+    <message>
+        <source>### 本次更新说明</source>
+        <translation type="unfinished">### Description of this update</translation>
+    </message>
+    <message>
+        <source> - 同步不同设备力回馈解析效果。</source>
+        <translation type="unfinished"> - Synchronize the effect of force feedback analysis of different devices.</translation>
+    </message>
+    <message>
+        <source> - 针对电机转动时的齿槽转矩，进行了算法补偿，因此本次更新需要在“恢复和重置”页中&lt;strong&gt;&lt;font color=&quot;red&quot;&gt;重新标定&lt;/font&gt;&lt;/strong&gt;电机相关参数。</source>
+        <translation type="unfinished"> - The algorithm compensates for the cogging torque when the motor is rotating, so this update needs to be done in the &quot;Restore and Reset&quot; page.&lt;strong&gt;&lt;font color=&quot;red&quot;&gt;Recalibration&lt;/font&gt;&lt;/strong&gt;Motor-related parameters.</translation>
+    </message>
+    <message>
+        <source>### 重新标定流程(流程必须严格按照顺序)</source>
+        <translation type="unfinished">### Recalibration process (process must be in strict order)</translation>
+    </message>
+    <message>
+        <source> - 1.点击“基座参数复位”复位</source>
+        <translation type="unfinished"> - 1. Click &quot;Base parameter reset&quot; to reset</translation>
+    </message>
+    <message>
+        <source> - 2.点击“基座检测”开始</source>
+        <translation type="unfinished"> - 2. Click &quot;Base Inspection&quot; to start</translation>
+    </message>
+    <message>
+        <source> - 3.点击“基座标定”开始，注：此时电机会有轻微角度转动，如未转动可重新点击开始</source>
+        <translation type="unfinished"> - 3. Click &quot;base calibration&quot; to start, note: at this time the motor will have a slight angle rotation, such as no rotation can be re-clicked to start</translation>
+    </message>
+    <message>
+        <source> - 4.点击“齿槽转矩标定”，注：此时电机会左右各转一圈，如未转动可重新点击开始</source>
+        <translation type="unfinished"> - 4. Click &quot;slot torque calibration&quot;, note: at this time, the motor will turn around once each, if it does not turn, click again to start</translation>
+    </message>
+    <message>
+        <source> - 5.手动重启基座</source>
+        <translation type="unfinished"> - 5. Manually restart the Wheel Base</translation>
+    </message>
+    <message>
+        <source>检查更新</source>
+        <translation type="unfinished">Check for updates</translation>
+    </message>
+    <message>
+        <source>一键升级所有</source>
+        <translation type="unfinished">One click to upgrade all</translation>
+    </message>
+    <message>
+        <source>R3 基座</source>
+        <translation>База R3</translation>
+    </message>
+    <message>
+        <source>R12 基座</source>
+        <translation>База R12</translation>
     </message>
 </context>
 <context>

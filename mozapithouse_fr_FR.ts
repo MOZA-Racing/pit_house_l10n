@@ -104,10 +104,6 @@
         <translation>Retardée</translation>
     </message>
     <message>
-        <source>### 本次更新说明</source>
-        <translation>### Notes de mise à jour</translation>
-    </message>
-    <message>
         <source>最小化到系统托盘</source>
         <translation>Réduire dans la barre des tâches</translation>
     </message>
@@ -210,10 +206,6 @@
         <translation>L&apos;objet doc n&apos;est pas initialisé</translation>
     </message>
     <message>
-        <source>重要提示</source>
-        <translation>Conseils importants</translation>
-    </message>
-    <message>
         <source>比如：程序闪退/启动游戏后显示屏没有变化</source>
         <translation>Détaillez le problème rencontré</translation>
     </message>
@@ -242,14 +234,6 @@
         <translation>Échec du redémarrage de la base, veuillez  &quot;restaurer et réinitialiser&quot;</translation>
     </message>
     <message>
-        <source>R9 : 9Nm
-R16: 16Nm
-R21: 21Nm</source>
-        <translation>R9 : 9Nm
-R16 : 16Nm
-R21 : 21Nm</translation>
-    </message>
-    <message>
         <source>机械阻尼比</source>
         <translation>Taux d&apos;amortissement mécanique</translation>
     </message>
@@ -259,7 +243,7 @@ R21 : 21Nm</translation>
     </message>
     <message>
         <source>左拇指旋钮</source>
-        <translation type="unfinished">bouton rotatif de pouce gauche</translation>
+        <translation>bouton rotatif de pouce gauche</translation>
     </message>
     <message>
         <source>异常,%1</source>
@@ -300,10 +284,6 @@ R21 : 21Nm</translation>
     <message>
         <source>已激活</source>
         <translation>Activé</translation>
-    </message>
-    <message>
-        <source>基座升级成功后，请重启基座再使用</source>
-        <translation>Après La mise à jour, redémarrez la base</translation>
     </message>
     <message>
         <source>实验固件指令</source>
@@ -913,7 +893,7 @@ Nous vous recommandons de configurer le jeu avant de le démarrer.</translation>
     </message>
     <message>
         <source>稍后提醒</source>
-        <translation type="unfinished">Plus tard</translation>
+        <translation>Plus tard</translation>
     </message>
     <message>
         <source>线性型：全段基座的力反馈与游戏力反馈信号输出等比对应。</source>
@@ -995,10 +975,6 @@ Nous vous recommandons de configurer le jeu avant de le démarrer.</translation>
     <message>
         <source>内测版</source>
         <translation>Développement</translation>
-    </message>
-    <message>
-        <source>电源口</source>
-        <translation>Port d&apos;alimentation</translation>
     </message>
     <message>
         <source>设备未进入升级模式</source>
@@ -1104,10 +1080,6 @@ Ce paramètre comprend à la fois le retour d&apos;information du jeu et l&apos;
         <translation>Informations sectorielles non trouvées</translation>
     </message>
     <message>
-        <source>回退固件版本</source>
-        <translation>Version précédente du firmware</translation>
-    </message>
-    <message>
         <source>手离开保护</source>
         <translation>Sécurité mains-libres</translation>
     </message>
@@ -1124,14 +1096,6 @@ Ce paramètre comprend à la fois le retour d&apos;information du jeu et l&apos;
         <translation>Version actuelle</translation>
     </message>
     <message>
-        <source>R9 : 7Nm
-R16: 12Nm
-R21: 16Nm</source>
-        <translation>R9 : 7Nm
-R16 : 12Nm
-R21 : 16Nm</translation>
-    </message>
-    <message>
         <source>下载固件文件失败</source>
         <translation>Échec du téléchargement du firmware</translation>
     </message>
@@ -1141,7 +1105,7 @@ R21 : 16Nm</translation>
     </message>
     <message>
         <source>左摇杆</source>
-        <translation type="unfinished">stick gauche</translation>
+        <translation>stick gauche</translation>
     </message>
     <message>
         <source>（电机控制器）</source>
@@ -1178,14 +1142,6 @@ R21 : 16Nm</translation>
     <message>
         <source>关闭提示</source>
         <translation>Fermer Astuce</translation>
-    </message>
-    <message>
-        <source>R9 : 5Nm
-R16: 8Nm
-R21: 10Nm</source>
-        <translation>R9 : 5Nm
-R16 : 8Nm
-R21 : 10Nm</translation>
     </message>
     <message>
         <source>外测版</source>
@@ -1256,10 +1212,6 @@ R21 : 10Nm</translation>
         <translation>Limite maximale du couple de sortie</translation>
     </message>
     <message>
-        <source>如果在固件升级后出现力反馈丢失等问题，可点击&quot;%1&quot;按钮回到上一个最新的固件版本</source>
-        <translation>Si vous rencontrez des problèmes tels que la perte du retour de force après une mise à niveau du Firmware, cliquez sur le bouton &quot;%1&quot; pour revenir à la dernière version du Firmware.</translation>
-    </message>
-    <message>
         <source>无法加载该预设，该预设不适用于该型号的踏板</source>
         <translation>Le préréglage n&apos;a pas pu être chargé et n&apos;est pas disponible pour ce modèle de pédale</translation>
     </message>
@@ -1282,10 +1234,6 @@ R21 : 10Nm</translation>
     <message>
         <source>基本设置</source>
         <translation>Réglages de base</translation>
-    </message>
-    <message>
-        <source> - 同步不同设备力回馈解析效果。</source>
-        <translation>Mise à jour de toutes les bases vers la même version</translation>
     </message>
     <message>
         <source>请拔掉方向盘，请重新“恢复和重置”</source>
@@ -1341,10 +1289,6 @@ R21 : 10Nm</translation>
         <translation>Le bouton peut être défini dans le jeu. Appuyez pour tester le bouton</translation>
     </message>
     <message>
-        <source>一键升级所有</source>
-        <translation>Mettre à jour en un clic</translation>
-    </message>
-    <message>
         <source>注意：该模式仅与IRacing生效，对其他游戏无影响。</source>
         <translation>Remarque : ce mode n&apos;est fonctionnel uniquement avec iRacing et n&apos;a aucun effet sur les autres jeux.</translation>
     </message>
@@ -1375,10 +1319,6 @@ R21 : 10Nm</translation>
     <message>
         <source>没有最新固件</source>
         <translation>Pas de firmware disponible</translation>
-    </message>
-    <message>
-        <source> - 5.手动重启基座</source>
-        <translation>5. Redémarrez manuellement la base</translation>
     </message>
     <message>
         <source>软限位强度</source>
@@ -1414,7 +1354,7 @@ R21 : 10Nm</translation>
     </message>
     <message>
         <source>固件版本是1.2.0.0或以上：按下右侧下方拨片，拨动该摇杆，可切换仪表盘UI风格</source>
-        <translation type="unfinished">La version du firmware est 1.2.0.0 ou supérieure : Appuyez sur cette palette et actionnez le stick pour changer le style d&apos;interface utilisateur du Digital Dash</translation>
+        <translation>La version du firmware est 1.2.0.0 ou supérieure : Appuyez sur cette palette et actionnez le stick pour changer le style d&apos;interface utilisateur du Digital Dash</translation>
     </message>
     <message>
         <source>下载包扩展数据失败</source>
@@ -1431,10 +1371,6 @@ R21 : 10Nm</translation>
     <message>
         <source>已经是最新固件版本</source>
         <translation>votre version est à jour</translation>
-    </message>
-    <message>
-        <source> - 4.点击“齿槽转矩标定”，注：此时电机会左右各转一圈，如未转动可重新点击开始</source>
-        <translation>4. Cliquez sur « Cogging Torque Calibration ». Remarque : Le moteur tournera vers la gauche et vers la droite. S&apos;il ne tourne pas, vous pouvez cliquer à nouveau pour recommencer.</translation>
     </message>
     <message>
         <source>排位赛版</source>
@@ -1595,10 +1531,6 @@ R21 : 10Nm</translation>
     <message>
         <source>此处是输入将要存储的预设名称。</source>
         <translation>Entrer ici le nom du préréglage qui sera enregistré.</translation>
-    </message>
-    <message>
-        <source>如果在升级过程中，所有升级进度条超过20秒不动，或反复升级失败时，可重启软件和设备，再重新升级</source>
-        <translation>Si toutes les barres de progression de La mise à jour ne bougent pas pendant plus de 20 secondes ou si La mise à jour échoue à plusieurs reprises, redémarrez vos périphériques, ordinateur, et recommencer l&apos;opération.</translation>
     </message>
     <message>
         <source>请稍后再试。如果多次出现该问题，请提交错误报告</source>
@@ -1894,7 +1826,7 @@ R21 : 10Nm</translation>
     </message>
     <message>
         <source>%1未连接</source>
-        <translation type="unfinished">Signal perdu, %1 déconnecté(e)</translation>
+        <translation>Signal perdu, %1 déconnecté(e)</translation>
     </message>
     <message>
         <source>未激活</source>
@@ -1992,7 +1924,7 @@ Une vitesse de retour élevée est plus adaptée au drift, tandis qu&apos;une vi
     </message>
     <message>
         <source>固件版本是1.2.0.0或以上：按下该拨片，拨动左摇杆，可切换仪表盘UI风格</source>
-        <translation type="unfinished">La version du firmware est 1.2.0.0 ou supérieure : Appuyez sur la palette et actionnez le stick pour changer le style d&apos;interface utilisateur du Digital Dash</translation>
+        <translation>La version du firmware est 1.2.0.0 ou supérieure : Appuyez sur la palette et actionnez le stick pour changer le style d&apos;interface utilisateur du Digital Dash</translation>
     </message>
     <message>
         <source>从本地文件打开固件</source>
@@ -2139,10 +2071,6 @@ Une vitesse de retour élevée est plus adaptée au drift, tandis qu&apos;une vi
         <translation>La mise à jour a rencontré des problèmes, veuillez recommencer...</translation>
     </message>
     <message>
-        <source> - 3.点击“基座标定”开始，注：此时电机会有轻微角度转动，如未转动可重新点击开始</source>
-        <translation>3. Cliquez sur &quot;Calibrage de la base&quot; &quot;Démarrer&quot;. Remarque : le moteur tournera légerement  à ce moment, s&apos;il ne tourne pas, vous pouvez cliquer à nouveau  pour recommencer</translation>
-    </message>
-    <message>
         <source>启动自动升级失败</source>
         <translation>Échec du démarrage de La mise à jour automatique</translation>
     </message>
@@ -2251,10 +2179,6 @@ Une vitesse de retour élevée est plus adaptée au drift, tandis qu&apos;une vi
         <translation>La mise à jour a rencontré une erreur, veuillez recommencer</translation>
     </message>
     <message>
-        <source> - 2.点击“基座检测”开始</source>
-        <translation> 2. Cliquez sur &quot;Inspection de la base&quot; &quot; Démarrer</translation>
-    </message>
-    <message>
         <source>基座标定将会持续一段时间，标定过程中自动重启基座。</source>
         <translation>La calibration se poursuivra pendant un certain temps et la base sera automatiquement redémarrée.</translation>
     </message>
@@ -2280,7 +2204,7 @@ Une vitesse de retour élevée est plus adaptée au drift, tandis qu&apos;une vi
     </message>
     <message>
         <source>左离合拨片+按下左侧摇杆</source>
-        <translation type="unfinished">Palette d&apos;embrayage gauche + appuyez sur le selecteur de gauche</translation>
+        <translation>Palette d&apos;embrayage gauche + appuyez sur le selecteur de gauche</translation>
     </message>
     <message>
         <source>电机控制器：%1</source>
@@ -2648,10 +2572,6 @@ Modifiez l&apos;un des paramètres, et l&apos;autre paramètre sera modifié en 
         <translation>Périphériques activables :</translation>
     </message>
     <message>
-        <source>检查更新</source>
-        <translation>Vérification des versions</translation>
-    </message>
-    <message>
         <source>屏幕亮度</source>
         <translation>Luminosité</translation>
     </message>
@@ -2673,7 +2593,7 @@ Modifiez l&apos;un des paramètres, et l&apos;autre paramètre sera modifié en 
     </message>
     <message>
         <source>左侧下方拨片</source>
-        <translation type="unfinished">la palette en bas à gauche</translation>
+        <translation>la palette en bas à gauche</translation>
     </message>
     <message>
         <source>导电滑环</source>
@@ -2706,10 +2626,6 @@ Modifiez l&apos;un des paramètres, et l&apos;autre paramètre sera modifié en 
     <message>
         <source>CM 仪表盘</source>
         <translation>Tableau de bord CM</translation>
-    </message>
-    <message>
-        <source>### 重新标定流程(流程必须严格按照顺序)</source>
-        <translation>### Processus de recalibrage  (le processus doit être suivi dans un ordre strict)</translation>
     </message>
     <message>
         <source>左离合拨片+按下BB 拇指旋钮</source>
@@ -2948,10 +2864,6 @@ Modifiez l&apos;un des paramètres, et l&apos;autre paramètre sera modifié en 
         <translation>Veuillez maintenir toutes les palettes enfoncées pendant 5 secondes</translation>
     </message>
     <message>
-        <source> - 1.点击“基座参数复位”复位</source>
-        <translation> 1. Cliquez sur &quot;Rétablissement des valeurs d&apos;usine&quot; &quot;Remise à zéro</translation>
-    </message>
-    <message>
         <source>50%还原来自游戏的力回馈，再叠加电机力回馈</source>
         <translation>50 % du retour de force du jeu</translation>
     </message>
@@ -3044,10 +2956,6 @@ Modifiez l&apos;un des paramètres, et l&apos;autre paramètre sera modifié en 
         <translation>Conseil</translation>
     </message>
     <message>
-        <source>接口</source>
-        <translation>interface</translation>
-    </message>
-    <message>
         <source>预设的路感灵敏度已在路面感知均衡器中修改。</source>
         <translation>La sensibilité de la route prédéfinie a été modifiée dans l&apos;égaliseur d&apos;effet FFB.</translation>
     </message>
@@ -3137,7 +3045,7 @@ Modifiez l&apos;un des paramètres, et l&apos;autre paramètre sera modifié en 
     </message>
     <message>
         <source>标准</source>
-        <translation type="unfinished">Standard</translation>
+        <translation type="unfinished">Full</translation>
     </message>
     <message>
         <source>标定</source>
@@ -3428,10 +3336,6 @@ Modifiez l&apos;un des paramètres, et l&apos;autre paramètre sera modifié en 
         <translation>Veuillez vous assurer que ce programme dispose de privilèges administrateur, sinon il ne marchera pas</translation>
     </message>
     <message>
-        <source> - 针对电机转动时的齿槽转矩，进行了算法补偿，因此本次更新需要在“恢复和重置”页中&lt;strong&gt;&lt;font color=&quot;red&quot;&gt;重新标定&lt;/font&gt;&lt;/strong&gt;电机相关参数。</source>
-        <translation> - Il existe un algorithme de compensation du couple lorsque le moteur tourne, donc cette mise à jour nécessite de &lt;strong&gt;&lt;font color=&quot;red&quot;&gt;recalibrer&lt;/font&gt;&lt;/strong&gt; les paramètres du moteur dans la page &quot;Récupération et réinitialisation&quot;.</translation>
-    </message>
-    <message>
         <source>换挡器</source>
         <translation>Levier de vitesses</translation>
     </message>
@@ -3468,10 +3372,6 @@ Modifiez l&apos;un des paramètres, et l&apos;autre paramètre sera modifié en 
         <translation>E-Stop</translation>
     </message>
     <message>
-        <source>support@gudsen.com</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>基座力反馈曲线</source>
         <translation>Courbe de FFB</translation>
     </message>
@@ -3502,14 +3402,6 @@ Modifiez l&apos;un des paramètres, et l&apos;autre paramètre sera modifié en 
     <message>
         <source>智能降挡补油</source>
         <translation>auto blip</translation>
-    </message>
-    <message>
-        <source>开启该功能后，在刹车降挡的场景下，会自动补油，而不需要使用跟趾技术。在特殊场景下，可能会误作动，如不需使用此功能时可关闭。</source>
-        <translation>Lorsque cette fonction est activée, dans les phases de freinages une brève pression sur l’accélérateur sera automatiquement effectuée au rétrogradage sans qu&apos;il soit nécessaire d&apos;utiliser la technique du talon-pointe. Dans certains scénarios, avec certains véhicules, ou si vous maitrisez la technique du talon-pointe, cette fonction peut être désactivée.</translation>
-    </message>
-    <message>
-        <source>&lt;font color=&quot;red&quot;&gt;开启智能降挡补油功能时请关闭游戏中自带的降挡补油功能。&lt;/font&gt;</source>
-        <translation>&lt;font color=&quot;red&quot;&gt;Veuillez désactiver la fonction d&apos;auto blip fournie avec le jeu lorsque vous activez cette fonction.&lt;/font&gt;</translation>
     </message>
     <message>
         <source>踏板版本不支持该功能，请升级</source>
@@ -3544,10 +3436,6 @@ Modifiez l&apos;un des paramètres, et l&apos;autre paramètre sera modifié en 
         <translation>Longue durée</translation>
     </message>
     <message>
-        <source>在10s内, 按压并从最左到最右来回移动摇杆</source>
-        <translation>Dans les 10s, appuyez sur le joystick et déplacez-le d&apos;avant en arrière, de gauche à droite</translation>
-    </message>
-    <message>
         <source>操作进行中，请耐心等待...</source>
         <translation>Opération en cours, veuillez patienter...</translation>
     </message>
@@ -3578,6 +3466,130 @@ Modifiez l&apos;un des paramètres, et l&apos;autre paramètre sera modifié en 
     <message>
         <source>正在升级，请耐心等待...</source>
         <translation>Mise à jour, veuillez patienter...</translation>
+    </message>
+    <message>
+        <source>遥测调试助手</source>
+        <translation type="unfinished">Telemetry debugging assistant</translation>
+    </message>
+    <message>
+        <source>用于调试遥测数据不同步的问题。</source>
+        <translation type="unfinished">Used to debug telemetry data out of sync.</translation>
+    </message>
+    <message>
+        <source>注意：调试过程中可以会出现卡顿，cpu占用高等异常</source>
+        <translation type="unfinished">Note: debugging process can be lagging, cpu occupation high exception</translation>
+    </message>
+    <message>
+        <source>开启该功能后，在刹车降挡的场景下，会自动补油，而不需要使用跟趾技术。</source>
+        <translation type="unfinished">With this feature turned on, fuel is automatically replenished in the event of a brake downshift without the need to use heel-toe technology.</translation>
+    </message>
+    <message>
+        <source>在特殊场景下，可能会误作动，如不需使用此功能时可关闭。</source>
+        <translation type="unfinished">In special scenarios, it may act by mistake, so you can turn it off if you don&apos;t need to use this function.</translation>
+    </message>
+    <message>
+        <source>&lt;font color=&quot;red&quot;&gt;开启智能降挡补油功能时请关闭游戏中自带的降挡补油功能。&lt;/font&gt;</source>
+        <translation type="unfinished">&lt;font color=&quot;red&quot;&gt;Please turn off the downshift function that comes with the game when you turn on the smart downshift function to refill the fuel.&lt;/font&gt;</translation>
+    </message>
+    <message>
+        <source>10s内按压换挡杆，并从最左到最右来回移动换挡杆。</source>
+        <translation type="unfinished">Press the shift lever and move it back and forth from far left to far right within 10s.</translation>
+    </message>
+    <message>
+        <source>&lt;font color=&quot;red&quot;&gt;注意不需要挂入任何档位。&lt;/font&gt;</source>
+        <translation type="unfinished">&lt;font color=&quot;red&quot;&gt;Note that you do not need to put it into any gear.&lt;/font&gt;</translation>
+    </message>
+    <message>
+        <source>接口1/2/3</source>
+        <translation type="unfinished">Interface 1/2/3</translation>
+    </message>
+    <message>
+        <source>电源</source>
+        <translation type="unfinished">Auxiliary Power Supply</translation>
+    </message>
+    <message>
+        <source>基座接口</source>
+        <translation type="unfinished">Wheel Base Interface</translation>
+    </message>
+    <message>
+        <source>接口</source>
+        <translation type="unfinished">Interface</translation>
+    </message>
+    <message>
+        <source>暂不支持该设备</source>
+        <translation type="unfinished">This device is not supported</translation>
+    </message>
+    <message>
+        <source>如果在升级过程中，所有升级进度条超过20秒不动，或反复升级失败时，可重启软件和设备，再重新升级</source>
+        <translation type="unfinished">If all upgrade progress bars do not move for more than 20 seconds during the upgrade process, or if the upgrade fails repeatedly, you can restart the software and the device, and then re-upgrade</translation>
+    </message>
+    <message>
+        <source>基座升级成功后，请重启基座再使用</source>
+        <translation type="unfinished">After the Wheel Base is successfully upgraded, please restart the Wheel Base and use it again</translation>
+    </message>
+    <message>
+        <source>如果在固件升级后出现力反馈丢失等问题，可点击&quot;%1&quot;按钮回到上一个最新的固件版本</source>
+        <translation type="unfinished">If you have problems such as loss of force feedback after a firmware upgrade, click the &quot;%1&quot; button to go back to the previous latest firmware version</translation>
+    </message>
+    <message>
+        <source>回退固件版本</source>
+        <translation type="unfinished">Rollback firmware version</translation>
+    </message>
+    <message>
+        <source>重要提示</source>
+        <translation type="unfinished">Important Tips</translation>
+    </message>
+    <message>
+        <source>### 本次更新说明</source>
+        <translation type="unfinished">### Description of this update</translation>
+    </message>
+    <message>
+        <source> - 同步不同设备力回馈解析效果。</source>
+        <translation type="unfinished"> - Synchronize the effect of force feedback analysis of different devices.</translation>
+    </message>
+    <message>
+        <source> - 针对电机转动时的齿槽转矩，进行了算法补偿，因此本次更新需要在“恢复和重置”页中&lt;strong&gt;&lt;font color=&quot;red&quot;&gt;重新标定&lt;/font&gt;&lt;/strong&gt;电机相关参数。</source>
+        <translation type="unfinished"> - The algorithm compensates for the cogging torque when the motor is rotating, so this update needs to be done in the &quot;Restore and Reset&quot; page.&lt;strong&gt;&lt;font color=&quot;red&quot;&gt;Recalibration&lt;/font&gt;&lt;/strong&gt;Motor-related parameters.</translation>
+    </message>
+    <message>
+        <source>### 重新标定流程(流程必须严格按照顺序)</source>
+        <translation type="unfinished">### Recalibration process (process must be in strict order)</translation>
+    </message>
+    <message>
+        <source> - 1.点击“基座参数复位”复位</source>
+        <translation type="unfinished"> - 1. Click &quot;Base parameter reset&quot; to reset</translation>
+    </message>
+    <message>
+        <source> - 2.点击“基座检测”开始</source>
+        <translation type="unfinished"> - 2. Click &quot;Base Inspection&quot; to start</translation>
+    </message>
+    <message>
+        <source> - 3.点击“基座标定”开始，注：此时电机会有轻微角度转动，如未转动可重新点击开始</source>
+        <translation type="unfinished"> - 3. Click &quot;base calibration&quot; to start, note: at this time the motor will have a slight angle rotation, such as no rotation can be re-clicked to start</translation>
+    </message>
+    <message>
+        <source> - 4.点击“齿槽转矩标定”，注：此时电机会左右各转一圈，如未转动可重新点击开始</source>
+        <translation type="unfinished"> - 4. Click &quot;slot torque calibration&quot;, note: at this time, the motor will turn around once each, if it does not turn, click again to start</translation>
+    </message>
+    <message>
+        <source> - 5.手动重启基座</source>
+        <translation type="unfinished"> - 5. Manually restart the Wheel Base</translation>
+    </message>
+    <message>
+        <source>检查更新</source>
+        <translation type="unfinished">Check for updates</translation>
+    </message>
+    <message>
+        <source>一键升级所有</source>
+        <translation type="unfinished">One click to upgrade all</translation>
+    </message>
+    <message>
+        <source>R3 基座</source>
+        <translation>Base R3</translation>
+    </message>
+    <message>
+        <source>R12 基座</source>
+        <translation>Base R12</translation>
     </message>
 </context>
 <context>
