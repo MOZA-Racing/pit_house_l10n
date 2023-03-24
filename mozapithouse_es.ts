@@ -3036,10 +3036,6 @@ conmutar el balancín izquierdo a la izquierda</translation>
         <translation>%1 tiene un estado no soportado, por favor actualice MOZA Pit House</translation>
     </message>
     <message>
-        <source>Minimize to system tray</source>
-        <translation>Minimizar en la bandeja del sistema</translation>
-    </message>
-    <message>
         <source>备份预设库目录失败</source>
         <translation>Fallo al realizar la copia de seguridad del directorio de la biblioteca de preajustes</translation>
     </message>
@@ -3277,15 +3273,15 @@ Si un modo de preajuste corresponde a varios preajustes, al pasar el ratón por 
     </message>
     <message>
         <source>1、游戏给出的力反馈信号变化不理想，可通过该曲线调节基座的实际输出曲线</source>
-        <translation>1、El juego da un cambio indeseable en la señal de retroalimentación de fuerza, la curva de salida real de la base puede ser ajustada por esta curva</translation>
+        <translation>1. El juego da un cambio indeseable en la señal de retroalimentación de fuerza, la curva de salida real de la base puede ser ajustada por esta curva</translation>
     </message>
     <message>
         <source>2、希望力反馈在某区间的变化率更大，可更明显地感受到车辆动态的变化</source>
-        <translation>2、Desea tener una mayor tasa de cambio de la fuerza de retroalimentación en un intervalo determinado, de modo que los cambios en la dinámica del vehículo se puede sentir más claramente</translation>
+        <translation>2. Desea tener una mayor tasa de cambio de la fuerza de retroalimentación en un intervalo determinado, de modo que los cambios en la dinámica del vehículo se puede sentir más claramente</translation>
     </message>
     <message>
         <source>3、希望力反馈在某区间的变化率更小，力反馈更恒定，操控受力反馈的影响更小</source>
-        <translation>2、Quiere tener una mayor tasa de cambio de la fuerza de retroalimentación en un intervalo determinado, de modo que los cambios en la dinámica del vehículo se puede sentir más claramente</translation>
+        <translation type="unfinished">3. Quiere tener una mayor tasa de cambio de la fuerza de retroalimentación en un intervalo determinado, de modo que los cambios en la dinámica del vehículo se puede sentir más claramente</translation>
     </message>
     <message>
         <source>游戏力反馈输出信号大小</source>
@@ -3476,10 +3472,6 @@ Si un modo de preajuste corresponde a varios preajustes, al pasar el ratón por 
         <translation type="unfinished">CS/RS Steering Wheel Inertia Ratio</translation>
     </message>
     <message>
-        <source>Links</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>正在升级，请耐心等待...</source>
         <translation>Actualizando, por favor espere pacientemente...</translation>
     </message>
@@ -3521,7 +3513,7 @@ Si un modo de preajuste corresponde a varios preajustes, al pasar el ratón por 
     </message>
     <message>
         <source>电源</source>
-        <translation type="unfinished">Auxiliary Power Supply</translation>
+        <translation>Power Supply</translation>
     </message>
     <message>
         <source>基座接口</source>
@@ -3529,7 +3521,7 @@ Si un modo de preajuste corresponde a varios preajustes, al pasar el ratón por 
     </message>
     <message>
         <source>接口</source>
-        <translation type="unfinished">interfaz</translation>
+        <translation>interfaz</translation>
     </message>
     <message>
         <source>暂不支持该设备</source>
@@ -3560,36 +3552,36 @@ Si un modo de preajuste corresponde a varios preajustes, al pasar el ratón por 
         <translation type="unfinished">### Description of this update</translation>
     </message>
     <message>
-        <source> - 同步不同设备力回馈解析效果。</source>
-        <translation type="unfinished"> - Synchronize the effect of force feedback analysis of different devices.</translation>
+        <source>- 同步不同设备力回馈解析效果。</source>
+        <translation type="unfinished">- Synchronize the effect of force feedback analysis of different devices.</translation>
     </message>
     <message>
-        <source> - 针对电机转动时的齿槽转矩，进行了算法补偿，因此本次更新需要在“恢复和重置”页中&lt;strong&gt;&lt;font color=&quot;red&quot;&gt;重新标定&lt;/font&gt;&lt;/strong&gt;电机相关参数。</source>
-        <translation type="unfinished"> - The algorithm compensates for the cogging torque when the motor is rotating, so this update needs to be done in the &quot;Restore and Reset&quot; page.&lt;strong&gt;&lt;font color=&quot;red&quot;&gt;Recalibration&lt;/font&gt;&lt;/strong&gt;Motor-related parameters.</translation>
+        <source>- 针对电机转动时的齿槽转矩，进行了算法补偿，因此本次更新需要在“恢复和重置”页中&lt;strong&gt;&lt;font color=&quot;red&quot;&gt;重新标定&lt;/font&gt;&lt;/strong&gt;电机相关参数。</source>
+        <translation type="unfinished">- The algorithm compensates for the cogging torque when the motor is rotating, so this update needs to be done in the &quot;Restore and Reset&quot; page.&lt;strong&gt;&lt;font color=&quot;red&quot;&gt;Recalibration&lt;/font&gt;&lt;/strong&gt;Motor-related parameters.</translation>
     </message>
     <message>
         <source>### 重新标定流程(流程必须严格按照顺序)</source>
         <translation type="unfinished">### Recalibration process (process must be in strict order)</translation>
     </message>
     <message>
-        <source> - 1.点击“基座参数复位”复位</source>
-        <translation type="unfinished"> - 1. Click &quot;Base parameter reset&quot; to reset</translation>
+        <source>1. 点击“基座参数复位”复位</source>
+        <translation type="unfinished">1. Click &quot;Base parameter reset&quot; to reset</translation>
     </message>
     <message>
-        <source> - 2.点击“基座检测”开始</source>
-        <translation type="unfinished"> - 2. Click &quot;Base Inspection&quot; to start</translation>
+        <source>2. 点击“基座检测”开始</source>
+        <translation type="unfinished">2. Click &quot;Base Inspection&quot; to start</translation>
     </message>
     <message>
-        <source> - 3.点击“基座标定”开始，注：此时电机会有轻微角度转动，如未转动可重新点击开始</source>
-        <translation type="unfinished"> - 3. Click &quot;base calibration&quot; to start, note: at this time the motor will have a slight angle rotation, such as no rotation can be re-clicked to start</translation>
+        <source>3. 点击“基座标定”开始，注：此时电机会有轻微角度转动，如未转动可重新点击开始</source>
+        <translation type="unfinished">3. Click &quot;base calibration&quot; to start, note: at this time the motor will have a slight angle rotation, such as no rotation can be re-clicked to start</translation>
     </message>
     <message>
-        <source> - 4.点击“齿槽转矩标定”，注：此时电机会左右各转一圈，如未转动可重新点击开始</source>
-        <translation type="unfinished"> - 4. Click &quot;slot torque calibration&quot;, note: at this time, the motor will turn around once each, if it does not turn, click again to start</translation>
+        <source>4. 点击“齿槽转矩标定”，注：此时电机会左右各转一圈，如未转动可重新点击开始</source>
+        <translation type="unfinished">4. Click &quot;slot torque calibration&quot;, note: at this time, the motor will turn around once each, if it does not turn, click again to start</translation>
     </message>
     <message>
-        <source> - 5.手动重启基座</source>
-        <translation type="unfinished"> - 5. Manually restart the Wheel Base</translation>
+        <source>5. 手动重启基座</source>
+        <translation type="unfinished">5. Manually restart the Wheel Base</translation>
     </message>
     <message>
         <source>检查更新</source>
@@ -3606,6 +3598,14 @@ Si un modo de preajuste corresponde a varios preajustes, al pasar el ratón por 
     <message>
         <source>R12 基座</source>
         <translation>Base R12</translation>
+    </message>
+    <message>
+        <source>游戏设置共享内存未正确配置为&quot;Project CARS3&quot;，无法通过共享内存文件中获取遥测数据。</source>
+        <translation>La memoria compartida de configuración del juego no está configurada correctamente como \&quot;Project CARS3\&quot;, y los datos de telemetría no se pueden obtener del archivo de memoria compartida.</translation>
+    </message>
+    <message>
+        <source>链接</source>
+        <translation type="unfinished">Links</translation>
     </message>
 </context>
 <context>

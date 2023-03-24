@@ -175,7 +175,7 @@
     </message>
     <message>
         <source>3、希望力反馈在某区间的变化率更小，力反馈更恒定，操控受力反馈的影响更小</source>
-        <translation>2、Vous souhaitez que le retour de force varie plus rapidement dans un intervalle spécifique, afin de mieux ressentir les changements dans la dynamique du véhicule</translation>
+        <translation type="unfinished">3. Hope that the rate of change of force feedback in a certain interval is smaller, the force feedback is more constant, the control is less affected by the force feedback</translation>
     </message>
     <message>
         <source>修改DPI缩放后，需要重启程序才能生效</source>
@@ -3360,10 +3360,6 @@ Modifiez l&apos;un des paramètres, et l&apos;autre paramètre sera modifié en 
         <translation>GT Style v2</translation>
     </message>
     <message>
-        <source>Minimize to system tray</source>
-        <translation>Minimiser dans la barre des tâches</translation>
-    </message>
-    <message>
         <source>HGP 换挡器</source>
         <translation>HGP Shifter</translation>
     </message>
@@ -3460,10 +3456,6 @@ Modifiez l&apos;un des paramètres, et l&apos;autre paramètre sera modifié en 
         <translation>Ratio d&apos;inertie du CS/RS Steering Wheel</translation>
     </message>
     <message>
-        <source>Links</source>
-        <translation>Liens</translation>
-    </message>
-    <message>
         <source>正在升级，请耐心等待...</source>
         <translation>Mise à jour, veuillez patienter...</translation>
     </message>
@@ -3505,7 +3497,7 @@ Modifiez l&apos;un des paramètres, et l&apos;autre paramètre sera modifié en 
     </message>
     <message>
         <source>电源</source>
-        <translation type="unfinished">Auxiliary Power Supply</translation>
+        <translation>Power Supply</translation>
     </message>
     <message>
         <source>基座接口</source>
@@ -3544,36 +3536,36 @@ Modifiez l&apos;un des paramètres, et l&apos;autre paramètre sera modifié en 
         <translation type="unfinished">### Description of this update</translation>
     </message>
     <message>
-        <source> - 同步不同设备力回馈解析效果。</source>
-        <translation type="unfinished"> - Synchronize the effect of force feedback analysis of different devices.</translation>
+        <source>- 同步不同设备力回馈解析效果。</source>
+        <translation type="unfinished">- Synchronize the effect of force feedback analysis of different devices.</translation>
     </message>
     <message>
-        <source> - 针对电机转动时的齿槽转矩，进行了算法补偿，因此本次更新需要在“恢复和重置”页中&lt;strong&gt;&lt;font color=&quot;red&quot;&gt;重新标定&lt;/font&gt;&lt;/strong&gt;电机相关参数。</source>
-        <translation type="unfinished"> - The algorithm compensates for the cogging torque when the motor is rotating, so this update needs to be done in the &quot;Restore and Reset&quot; page.&lt;strong&gt;&lt;font color=&quot;red&quot;&gt;Recalibration&lt;/font&gt;&lt;/strong&gt;Motor-related parameters.</translation>
+        <source>- 针对电机转动时的齿槽转矩，进行了算法补偿，因此本次更新需要在“恢复和重置”页中&lt;strong&gt;&lt;font color=&quot;red&quot;&gt;重新标定&lt;/font&gt;&lt;/strong&gt;电机相关参数。</source>
+        <translation type="unfinished">- The algorithm compensates for the cogging torque when the motor is rotating, so this update needs to be done in the &quot;Restore and Reset&quot; page.&lt;strong&gt;&lt;font color=&quot;red&quot;&gt;Recalibration&lt;/font&gt;&lt;/strong&gt;Motor-related parameters.</translation>
     </message>
     <message>
         <source>### 重新标定流程(流程必须严格按照顺序)</source>
         <translation type="unfinished">### Recalibration process (process must be in strict order)</translation>
     </message>
     <message>
-        <source> - 1.点击“基座参数复位”复位</source>
-        <translation type="unfinished"> - 1. Click &quot;Base parameter reset&quot; to reset</translation>
+        <source>1. 点击“基座参数复位”复位</source>
+        <translation type="unfinished">1. Click &quot;Base parameter reset&quot; to reset</translation>
     </message>
     <message>
-        <source> - 2.点击“基座检测”开始</source>
-        <translation type="unfinished"> - 2. Click &quot;Base Inspection&quot; to start</translation>
+        <source>2. 点击“基座检测”开始</source>
+        <translation type="unfinished">2. Click &quot;Base Inspection&quot; to start</translation>
     </message>
     <message>
-        <source> - 3.点击“基座标定”开始，注：此时电机会有轻微角度转动，如未转动可重新点击开始</source>
-        <translation type="unfinished"> - 3. Click &quot;base calibration&quot; to start, note: at this time the motor will have a slight angle rotation, such as no rotation can be re-clicked to start</translation>
+        <source>3. 点击“基座标定”开始，注：此时电机会有轻微角度转动，如未转动可重新点击开始</source>
+        <translation type="unfinished">3. Click &quot;base calibration&quot; to start, note: at this time the motor will have a slight angle rotation, such as no rotation can be re-clicked to start</translation>
     </message>
     <message>
-        <source> - 4.点击“齿槽转矩标定”，注：此时电机会左右各转一圈，如未转动可重新点击开始</source>
-        <translation type="unfinished"> - 4. Click &quot;slot torque calibration&quot;, note: at this time, the motor will turn around once each, if it does not turn, click again to start</translation>
+        <source>4. 点击“齿槽转矩标定”，注：此时电机会左右各转一圈，如未转动可重新点击开始</source>
+        <translation type="unfinished">4. Click &quot;slot torque calibration&quot;, note: at this time, the motor will turn around once each, if it does not turn, click again to start</translation>
     </message>
     <message>
-        <source> - 5.手动重启基座</source>
-        <translation type="unfinished"> - 5. Manually restart the Wheel Base</translation>
+        <source>5. 手动重启基座</source>
+        <translation type="unfinished">5. Manually restart the Wheel Base</translation>
     </message>
     <message>
         <source>检查更新</source>
@@ -3590,6 +3582,14 @@ Modifiez l&apos;un des paramètres, et l&apos;autre paramètre sera modifié en 
     <message>
         <source>R12 基座</source>
         <translation>Base R12</translation>
+    </message>
+    <message>
+        <source>游戏设置共享内存未正确配置为&quot;Project CARS3&quot;，无法通过共享内存文件中获取遥测数据。</source>
+        <translation>La mémoire partagée de configuration du jeu n&apos;est pas correctement configurée en tant que \&quot;Project CARS3\&quot;, et les données de télémétrie ne peuvent pas être obtenues à partir du fichier de mémoire partagée.</translation>
+    </message>
+    <message>
+        <source>链接</source>
+        <translation type="unfinished">Links</translation>
     </message>
 </context>
 <context>

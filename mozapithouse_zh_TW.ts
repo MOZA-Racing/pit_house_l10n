@@ -212,10 +212,6 @@
         <translation type="unfinished">深圳市固勝智能科技有限公司</translation>
     </message>
     <message>
-        <source>Links</source>
-        <translation type="unfinished">Links</translation>
-    </message>
-    <message>
         <source>联系我们</source>
         <translation type="unfinished">聯系我們</translation>
     </message>
@@ -866,36 +862,36 @@
         <translation type="unfinished">### 本次更新說明</translation>
     </message>
     <message>
-        <source> - 同步不同设备力回馈解析效果。</source>
-        <translation type="unfinished"> - 同步不同設備力回饋解析效果。</translation>
+        <source>- 同步不同设备力回馈解析效果。</source>
+        <translation type="unfinished">- 同步不同設備力回饋解析效果。</translation>
     </message>
     <message>
-        <source> - 针对电机转动时的齿槽转矩，进行了算法补偿，因此本次更新需要在“恢复和重置”页中&lt;strong&gt;&lt;font color=&quot;red&quot;&gt;重新标定&lt;/font&gt;&lt;/strong&gt;电机相关参数。</source>
-        <translation type="unfinished"> - 針對電機轉動時的齒槽轉矩，進行了算法補償，因此本次更新需要在“恢復和重置”頁中&lt;strong&gt;&lt;font color=&quot;red&quot;&gt;重新標定&lt;/font&gt;&lt;/strong&gt;電機相關參數。</translation>
+        <source>- 针对电机转动时的齿槽转矩，进行了算法补偿，因此本次更新需要在“恢复和重置”页中&lt;strong&gt;&lt;font color=&quot;red&quot;&gt;重新标定&lt;/font&gt;&lt;/strong&gt;电机相关参数。</source>
+        <translation type="unfinished">- 針對電機轉動時的齒槽轉矩，進行了算法補償，因此本次更新需要在“恢復和重置”頁中&lt;strong&gt;&lt;font color=&quot;red&quot;&gt;重新標定&lt;/font&gt;&lt;/strong&gt;電機相關參數。</translation>
     </message>
     <message>
         <source>### 重新标定流程(流程必须严格按照顺序)</source>
         <translation type="unfinished">### 重新標定流程(流程必須嚴格按照順序)</translation>
     </message>
     <message>
-        <source> - 1.点击“基座参数复位”复位</source>
-        <translation type="unfinished"> - 1.點擊“基座參數復位”復位</translation>
+        <source>1. 点击“基座参数复位”复位</source>
+        <translation type="unfinished">1. 點擊“基座參數復位”復位</translation>
     </message>
     <message>
-        <source> - 2.点击“基座检测”开始</source>
-        <translation type="unfinished"> - 2.點擊“基座檢測”開始</translation>
+        <source>2. 点击“基座检测”开始</source>
+        <translation type="unfinished">2. 點擊“基座檢測”開始</translation>
     </message>
     <message>
-        <source> - 3.点击“基座标定”开始，注：此时电机会有轻微角度转动，如未转动可重新点击开始</source>
-        <translation type="unfinished"> - 3.點擊“基座標定”開始，注：此時電機會有輕微角度轉動，如未轉動可重新點擊開始</translation>
+        <source>3. 点击“基座标定”开始，注：此时电机会有轻微角度转动，如未转动可重新点击开始</source>
+        <translation type="unfinished">3. 點擊“基座標定”開始，注：此時電機會有輕微角度轉動，如未轉動可重新點擊開始</translation>
     </message>
     <message>
-        <source> - 4.点击“齿槽转矩标定”，注：此时电机会左右各转一圈，如未转动可重新点击开始</source>
-        <translation type="unfinished"> - 4.點擊“齒槽轉矩標定”，注：此時電機會左右各轉一圈，如未轉動可重新點擊開始</translation>
+        <source>4. 点击“齿槽转矩标定”，注：此时电机会左右各转一圈，如未转动可重新点击开始</source>
+        <translation type="unfinished">4. 點擊“齒槽轉矩標定”，注：此時電機會左右各轉一圈，如未轉動可重新點擊開始</translation>
     </message>
     <message>
-        <source> - 5.手动重启基座</source>
-        <translation type="unfinished"> - 5.手動重啟基座</translation>
+        <source>5. 手动重启基座</source>
+        <translation type="unfinished">5. 手動重啟基座</translation>
     </message>
     <message>
         <source>基座</source>
@@ -2850,10 +2846,6 @@
         <translation type="unfinished">激活</translation>
     </message>
     <message>
-        <source>Minimize to system tray</source>
-        <translation type="unfinished">Minimize to system tray</translation>
-    </message>
-    <message>
         <source>没有正在独占MOZARacing的程序 </source>
         <translation type="unfinished">沒有正在獨占MOZARacing的程序 </translation>
     </message>
@@ -3606,6 +3598,14 @@
     <message>
         <source>新增激活信息失败，网络异常！</source>
         <translation type="unfinished">新增激活信息失敗，網絡異常！</translation>
+    </message>
+    <message>
+        <source>游戏设置共享内存未正确配置为&quot;Project CARS3&quot;，无法通过共享内存文件中获取遥测数据。</source>
+        <translation type="unfinished">游戲設置共享內存未正確配置為&quot;Project CARS3&quot;，無法通過共享內存文件中獲取遙測數據。</translation>
+    </message>
+    <message>
+        <source>链接</source>
+        <translation type="unfinished">鏈接</translation>
     </message>
 </context>
 <context>
