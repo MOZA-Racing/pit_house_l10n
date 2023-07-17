@@ -28,6 +28,10 @@
         <translation>拉力模式</translation>
     </message>
     <message>
+        <source>Truck</source>
+        <translation>卡车模式</translation>
+    </message>
+    <message>
         <source>Offical</source>
         <translation>官方</translation>
     </message>

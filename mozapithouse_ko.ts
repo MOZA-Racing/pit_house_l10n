@@ -9,7 +9,7 @@
     </message>
     <message>
         <source>、</source>
-        <translation type="unfinished">, </translation>
+        <translation type="obsolete">, </translation>
     </message>
     <message>
         <source>关</source>
@@ -89,7 +89,7 @@
     </message>
     <message>
         <source>检查Pit House版本更新</source>
-        <translation>Pit House 업데이트</translation>
+        <translation type="vanished">Pit House 업데이트</translation>
     </message>
     <message>
         <source>没有在PackageUpdate标签找到Name标签</source>
@@ -187,7 +187,7 @@
     </message>
     <message>
         <source>左拇指旋钮</source>
-        <translation>왼쪽 다이얼</translation>
+        <translation type="vanished">왼쪽 다이얼</translation>
     </message>
     <message>
         <source>不限制基座的输出扭矩</source>
@@ -341,7 +341,7 @@ Output: %2</translation>
     </message>
     <message>
         <source>右摇杆</source>
-        <translation>오른쪽 스틱</translation>
+        <translation type="vanished">오른쪽 스틱</translation>
     </message>
     <message>
         <source>请输入激活码</source>
@@ -357,7 +357,7 @@ Output: %2</translation>
     </message>
     <message>
         <source>右旋钮</source>
-        <translation>오른쪽 다이얼</translation>
+        <translation type="vanished">오른쪽 다이얼</translation>
     </message>
     <message>
         <source>更新安装</source>
@@ -409,7 +409,7 @@ Output: %2</translation>
     </message>
     <message>
         <source>基座未连接</source>
-        <translation>베이스가 연결되지 않음</translation>
+        <translation type="vanished">베이스가 연결되지 않음</translation>
     </message>
     <message>
         <source>正赛版</source>
@@ -593,7 +593,7 @@ Output: %2</translation>
     </message>
     <message>
         <source>仪表盘未连接</source>
-        <translation>대시보드가 ​​연결되지 않았습니다.</translation>
+        <translation type="vanished">대시보드가 ​​연결되지 않았습니다.</translation>
     </message>
     <message>
         <source>GT赛车</source>
@@ -728,15 +728,15 @@ Output: %2</translation>
     </message>
     <message>
         <source>该拨片</source>
-        <translation>패들</translation>
+        <translation type="vanished">패들</translation>
     </message>
     <message>
         <source>该摇杆</source>
-        <translation>스틱</translation>
+        <translation type="vanished">스틱</translation>
     </message>
     <message>
         <source>基座处于升级模式</source>
-        <translation>베이스가 업그레이드 모드에 있습니다.</translation>
+        <translation type="vanished">베이스가 업그레이드 모드에 있습니다.</translation>
     </message>
     <message>
         <source>模拟出一个任何时候都有的回中力效果，适用于游戏本身就没有力回馈的娱乐赛车游戏。
@@ -746,7 +746,7 @@ Output: %2</translation>
     </message>
     <message>
         <source>该旋钮</source>
-        <translation>다이얼</translation>
+        <translation type="vanished">다이얼</translation>
     </message>
     <message>
         <source>游戏的路面情况可以感应到部分</source>
@@ -754,7 +754,7 @@ Output: %2</translation>
     </message>
     <message>
         <source>右拇指旋钮</source>
-        <translation>오른쪽 다이얼</translation>
+        <translation type="vanished">오른쪽 다이얼</translation>
     </message>
     <message>
         <source>游戏的路面情况基本感应不到，且力反馈平缓</source>
@@ -886,7 +886,7 @@ ABS 작동시 진동은 이 주파수와 유사하므로 ABS 작동시 진동도
     </message>
     <message>
         <source>当前版本</source>
-        <translation>현재 버전</translation>
+        <translation type="vanished">현재 버전</translation>
     </message>
     <message>
         <source>下载固件文件失败</source>
@@ -898,7 +898,7 @@ ABS 작동시 진동은 이 주파수와 유사하므로 ABS 작동시 진동도
     </message>
     <message>
         <source>左摇杆</source>
-        <translation>왼쪽 스틱</translation>
+        <translation type="vanished">왼쪽 스틱</translation>
     </message>
     <message>
         <source>（电机控制器）</source>
@@ -910,7 +910,7 @@ ABS 작동시 진동은 이 주파수와 유사하므로 ABS 작동시 진동도
     </message>
     <message>
         <source>左旋钮</source>
-        <translation>왼쪽 다이얼</translation>
+        <translation type="vanished">왼쪽 다이얼</translation>
     </message>
     <message>
         <source>基座软重启</source>
@@ -1022,7 +1022,7 @@ ABS 작동시 진동은 이 주파수와 유사하므로 ABS 작동시 진동도
     </message>
     <message>
         <source>版本检测</source>
-        <translation>업데이트 확인</translation>
+        <translation type="vanished">업데이트 확인</translation>
     </message>
     <message>
         <source>版本检查中…</source>
@@ -1030,7 +1030,7 @@ ABS 작동시 진동은 이 주파수와 유사하므로 ABS 작동시 진동도
     </message>
     <message>
         <source>该拇指旋钮</source>
-        <translation>다이얼</translation>
+        <translation type="vanished">다이얼</translation>
     </message>
     <message>
         <source>升级固件未准备</source>
@@ -1079,8 +1079,8 @@ ABS 작동시 진동은 이 주파수와 유사하므로 ABS 작동시 진동도
         <translation>사용 가능한 최신 펌웨어가 없습니다.</translation>
     </message>
     <message>
-        <source>Copyright © 2015-2022 Gudsen Technology Co., Ltd. All rights reserved.</source>
-        <translation type="unfinished">Copyright © 2015-2022 Gudsen Technology Co., Ltd. All rights reserved.</translation>
+        <source>Copyright © 2015-2023 Gudsen Technology Co., Ltd. All rights reserved.</source>
+        <translation type="obsolete">Copyright © 2015-2023 Gudsen Technology Co., Ltd. All rights reserved.</translation>
     </message>
     <message>
         <source>剩余%1秒</source>
@@ -1108,7 +1108,7 @@ ABS 작동시 진동은 이 주파수와 유사하므로 ABS 작동시 진동도
     </message>
     <message>
         <source>固件版本是1.2.0.0或以上：按下右侧下方拨片，拨动该摇杆，可切换仪表盘UI风格</source>
-        <translation>펌웨어 버전이 1.2.0.0 이상: 오른쪽 하단 패들을 누르고 스틱을 사용하여 대시보드의 UI 스타일을 전환할 수 있습니다.</translation>
+        <translation type="vanished">펌웨어 버전이 1.2.0.0 이상: 오른쪽 하단 패들을 누르고 스틱을 사용하여 대시보드의 UI 스타일을 전환할 수 있습니다.</translation>
     </message>
     <message>
         <source>下载包扩展数据失败</source>
@@ -1212,7 +1212,7 @@ ABS 작동시 진동은 이 주파수와 유사하므로 ABS 작동시 진동도
     </message>
     <message>
         <source>%1处于升级模式</source>
-        <translation>%1은(는) 업데이트 모드에 있습니다</translation>
+        <translation type="vanished">%1은(는) 업데이트 모드에 있습니다</translation>
     </message>
     <message>
         <source>没有运行Boot程序，请重新升级</source>
@@ -1220,7 +1220,7 @@ ABS 작동시 진동은 이 주파수와 유사하므로 ABS 작동시 진동도
     </message>
     <message>
         <source>固件版本是1.2.0.0或以上：按下右侧拨片，拨动该摇杆，可切换仪表盘UI风格</source>
-        <translation>펌웨어 버전이 1.2.0.0 이상입니다. 오른쪽 아래 패들을 누르고 스틱을 사용하여 디지털 대시 UI 스타일을 전환하십시오.</translation>
+        <translation type="vanished">펌웨어 버전이 1.2.0.0 이상입니다. 오른쪽 아래 패들을 누르고 스틱을 사용하여 디지털 대시 UI 스타일을 전환하십시오.</translation>
     </message>
     <message>
         <source>文件名错误，无法运行维护工具！</source>
@@ -1468,7 +1468,7 @@ ABS 작동시 진동은 이 주파수와 유사하므로 ABS 작동시 진동도
     </message>
     <message>
         <source>%1未连接</source>
-        <translation>신호 손실, %1 연결 해제됨</translation>
+        <translation type="vanished">신호 손실, %1 연결 해제됨</translation>
     </message>
     <message>
         <source>未激活</source>
@@ -1550,7 +1550,7 @@ ABS 작동시 진동은 이 주파수와 유사하므로 ABS 작동시 진동도
     </message>
     <message>
         <source>固件版本是1.2.0.0或以上：按下该拨片，拨动左摇杆，可切换仪表盘UI风格</source>
-        <translation>펌웨어 버전이 1.2.0.0 이상: 이 패들을 누르고 왼쪽 스틱을 이동하여 디지털 대시보드 UI 스타일을 전환합니다.</translation>
+        <translation type="vanished">펌웨어 버전이 1.2.0.0 이상: 이 패들을 누르고 왼쪽 스틱을 이동하여 디지털 대시보드 UI 스타일을 전환합니다.</translation>
     </message>
     <message>
         <source>从本地文件打开固件</source>
@@ -1666,7 +1666,7 @@ ABS 작동시 진동은 이 주파수와 유사하므로 ABS 작동시 진동도
     </message>
     <message>
         <source>方向盘未连接</source>
-        <translation>핸들이 연결되지 않음</translation>
+        <translation type="vanished">핸들이 연결되지 않음</translation>
     </message>
     <message>
         <source>油门设置</source>
@@ -1690,7 +1690,7 @@ ABS 작동시 진동은 이 주파수와 유사하므로 ABS 작동시 진동도
     </message>
     <message>
         <source>可在游戏中设置喇叭按钮效果</source>
-        <translation>게임에서 경적 버튼 효과를 설정할 수 있습니다</translation>
+        <translation type="vanished">게임에서 경적 버튼 효과를 설정할 수 있습니다</translation>
     </message>
     <message>
         <source>注意：此功能用于拨片按压不生效或失灵的情况下重新校准拨片。</source>
@@ -1718,7 +1718,7 @@ ABS 작동시 진동은 이 주파수와 유사하므로 ABS 작동시 진동도
     </message>
     <message>
         <source>左侧拨片</source>
-        <translation>왼쪽 패들</translation>
+        <translation type="vanished">왼쪽 패들</translation>
     </message>
     <message>
         <source>同时按下两个摇杆</source>
@@ -1826,11 +1826,11 @@ ABS 작동시 진동은 이 주파수와 유사하므로 ABS 작동시 진동도
     </message>
     <message>
         <source>可在游戏设置该拨片</source>
-        <translation>패들은 게임에서 설정할 수 있습니다</translation>
+        <translation type="vanished">패들은 게임에서 설정할 수 있습니다</translation>
     </message>
     <message>
         <source>可在游戏设置该摇杆</source>
-        <translation>스틱은 게임에서 설정할 수 있습니다</translation>
+        <translation type="vanished">스틱은 게임에서 설정할 수 있습니다</translation>
     </message>
     <message>
         <source>速度单位</source>
@@ -1842,7 +1842,7 @@ ABS 작동시 진동은 이 주파수와 유사하므로 ABS 작동시 진동도
     </message>
     <message>
         <source>可在游戏设置该旋钮</source>
-        <translation>다이얼은 게임에서 설정할 수 있습니다.</translation>
+        <translation type="vanished">다이얼은 게임에서 설정할 수 있습니다.</translation>
     </message>
     <message>
         <source>恢复和重置</source>
@@ -1952,7 +1952,7 @@ ABS 작동시 진동은 이 주파수와 유사하므로 ABS 작동시 진동도
     </message>
     <message>
         <source>关闭主面板</source>
-        <translation>메인 패널 닫기</translation>
+        <translation type="vanished">메인 패널 닫기</translation>
     </message>
     <message>
         <source>短行程</source>
@@ -2055,7 +2055,7 @@ ABS 작동시 진동은 이 주파수와 유사하므로 ABS 작동시 진동도
     </message>
     <message>
         <source>最新的MOZA Pit House v%1 可用，是否立即更新下载？</source>
-        <translation>최신 MOZA Pit House v%1을(를) 사용할 수 있습니다. 지금 업데이트하시겠습니까?</translation>
+        <translation type="vanished">최신 MOZA Pit House v%1을(를) 사용할 수 있습니다. 지금 업데이트하시겠습니까?</translation>
     </message>
     <message>
         <source>升级异常</source>
@@ -2115,7 +2115,7 @@ ABS 작동시 진동은 이 주파수와 유사하므로 ABS 작동시 진동도
     </message>
     <message>
         <source>左侧下方拨片</source>
-        <translation>왼쪽 아래 패들</translation>
+        <translation type="vanished">왼쪽 아래 패들</translation>
     </message>
     <message>
         <source>导入预设</source>
@@ -2127,7 +2127,7 @@ ABS 작동시 진동은 이 주파수와 유사하므로 ABS 작동시 진동도
     </message>
     <message>
         <source>长按两侧拇指旋钮进入或退出按键调节模式</source>
-        <translation>양쪽에 있는 다이얼을 길게 눌러 키 설정 모드를 시작하거나 종료합니다.</translation>
+        <translation type="vanished">양쪽에 있는 다이얼을 길게 눌러 키 설정 모드를 시작하거나 종료합니다.</translation>
     </message>
     <message>
         <source>同步变化</source>
@@ -2280,7 +2280,7 @@ ABS 작동시 진동은 이 주파수와 유사하므로 ABS 작동시 진동도
     </message>
     <message>
         <source>可在游戏设置该拇指旋钮</source>
-        <translation>게임에서 스틱을 설정할 수 있습니다</translation>
+        <translation type="vanished">게임에서 스틱을 설정할 수 있습니다</translation>
     </message>
     <message>
         <source>没有在Package标签找到Version标签</source>
@@ -2392,7 +2392,7 @@ ABS 작동시 진동은 이 주파수와 유사하므로 ABS 작동시 진동도
     </message>
     <message>
         <source>启用</source>
-        <translation>사용함</translation>
+        <translation type="vanished">사용함</translation>
     </message>
     <message>
         <source>恢复</source>
@@ -2456,11 +2456,11 @@ ABS 작동시 진동은 이 주파수와 유사하므로 ABS 작동시 진동도
     </message>
     <message>
         <source>明亮</source>
-        <translation>라이트 모드</translation>
+        <translation type="vanished">라이트 모드</translation>
     </message>
     <message>
         <source>暗黑</source>
-        <translation>다크 모드</translation>
+        <translation type="vanished">다크 모드</translation>
     </message>
     <message>
         <source>显示</source>
@@ -2552,7 +2552,7 @@ ABS 작동시 진동은 이 주파수와 유사하므로 ABS 작동시 진동도
     </message>
     <message>
         <source>禁用</source>
-        <translation>사용 안함</translation>
+        <translation type="vanished">사용 안함</translation>
     </message>
     <message>
         <source>重启</source>
@@ -2652,7 +2652,7 @@ ABS 작동시 진동은 이 주파수와 유사하므로 ABS 작동시 진동도
     </message>
     <message>
         <source>固件版本是1.2.0.30或以上：同时按下%1和%2，可修改最大转向角为%3°</source>
-        <translation>펌웨어 버전 1.2.0.30 이상: %1과 %2을 동시에 눌러 최대 핸들 각도를 %3°로 변경하십시오.</translation>
+        <translation type="vanished">펌웨어 버전 1.2.0.30 이상: %1과 %2을 동시에 눌러 최대 핸들 각도를 %3°로 변경하십시오.</translation>
     </message>
     <message>
         <source>方向盘参数复位</source>
@@ -2692,7 +2692,7 @@ ABS 작동시 진동은 이 주파수와 유사하므로 ABS 작동시 진동도
     </message>
     <message>
         <source>切换皮肤</source>
-        <translation>테마</translation>
+        <translation type="vanished">테마</translation>
     </message>
     <message>
         <source>RS Alcantara 圆盘</source>
@@ -3137,7 +3137,7 @@ If a Preset Mode corresponds to multiple presets, hovering over the correspondin
     </message>
     <message>
         <source>启动维护工具</source>
-        <translation type="unfinished">Start up maintenance tools</translation>
+        <translation type="obsolete">Start up maintenance tools</translation>
     </message>
     <message>
         <source>点击关闭地平线兼容模式</source>
@@ -3289,7 +3289,7 @@ If a Preset Mode corresponds to multiple presets, hovering over the correspondin
     </message>
     <message>
         <source>手刹未连接</source>
-        <translation type="unfinished">Handbrake not connected</translation>
+        <translation type="obsolete">Handbrake not connected</translation>
     </message>
     <message>
         <source>手刹处于升级模式</source>
@@ -3401,7 +3401,7 @@ If a Preset Mode corresponds to multiple presets, hovering over the correspondin
     </message>
     <message>
         <source>换挡器未连接</source>
-        <translation type="unfinished">Shifter not connected</translation>
+        <translation type="obsolete">Shifter not connected</translation>
     </message>
     <message>
         <source>换挡器处于升级模式</source>
@@ -3453,11 +3453,11 @@ If a Preset Mode corresponds to multiple presets, hovering over the correspondin
     </message>
     <message>
         <source>GS/FSR 方向盘</source>
-        <translation type="unfinished">GS/FSR Steering Wheel</translation>
+        <translation type="obsolete">GS/FSR Steering Wheel</translation>
     </message>
     <message>
         <source>GS/FSR方向盘实际惯量比</source>
-        <translation type="unfinished">GS/FSR Steering Wheel Inertia Ratio</translation>
+        <translation type="obsolete">GS/FSR Steering Wheel Inertia Ratio</translation>
     </message>
     <message>
         <source>CS/RS 方向盘</source>
@@ -3477,11 +3477,11 @@ If a Preset Mode corresponds to multiple presets, hovering over the correspondin
     </message>
     <message>
         <source>用于调试遥测数据不同步的问题。</source>
-        <translation type="unfinished">Used to debug telemetry data out of sync.</translation>
+        <translation type="obsolete">Used to debug telemetry data out of sync.</translation>
     </message>
     <message>
         <source>注意：调试过程中可以会出现卡顿，cpu占用高等异常</source>
-        <translation type="unfinished">Note: debugging process can be lagging, cpu occupation high exception</translation>
+        <translation type="obsolete">Note: debugging process can be lagging, cpu occupation high exception</translation>
     </message>
     <message>
         <source>开启该功能后，在刹车降挡的场景下，会自动补油，而不需要使用跟趾技术。</source>
@@ -3541,43 +3541,43 @@ If a Preset Mode corresponds to multiple presets, hovering over the correspondin
     </message>
     <message>
         <source>重要提示</source>
-        <translation type="unfinished">Important Tips</translation>
+        <translation type="obsolete">Important Tips</translation>
     </message>
     <message>
         <source>### 本次更新说明</source>
-        <translation type="unfinished">### Description of this update</translation>
+        <translation type="obsolete">### Description of this update</translation>
     </message>
     <message>
         <source>- 同步不同设备力回馈解析效果。</source>
-        <translation type="unfinished">- Synchronize the effect of force feedback analysis of different devices.</translation>
+        <translation type="obsolete">- Synchronize the effect of force feedback analysis of different devices.</translation>
     </message>
     <message>
         <source>- 针对电机转动时的齿槽转矩，进行了算法补偿，因此本次更新需要在“恢复和重置”页中&lt;strong&gt;&lt;font color=&quot;red&quot;&gt;重新标定&lt;/font&gt;&lt;/strong&gt;电机相关参数。</source>
-        <translation type="unfinished">- The algorithm compensates for the cogging torque when the motor is rotating, so this update needs to be done in the &quot;Restore and Reset&quot; page.&lt;strong&gt;&lt;font color=&quot;red&quot;&gt;Recalibration&lt;/font&gt;&lt;/strong&gt;Motor-related parameters.</translation>
+        <translation type="obsolete">- The algorithm compensates for the cogging torque when the motor is rotating, so this update needs to be done in the &quot;Restore and Reset&quot; page.&lt;strong&gt;&lt;font color=&quot;red&quot;&gt;Recalibration&lt;/font&gt;&lt;/strong&gt;Motor-related parameters.</translation>
     </message>
     <message>
         <source>### 重新标定流程(流程必须严格按照顺序)</source>
-        <translation type="unfinished">### Recalibration process (process must be in strict order)</translation>
+        <translation type="obsolete">### Recalibration process (process must be in strict order)</translation>
     </message>
     <message>
         <source>1. 点击“基座参数复位”复位</source>
-        <translation type="unfinished">1. Click &quot;Base parameter reset&quot; to reset</translation>
+        <translation type="obsolete">1. Click &quot;Base parameter reset&quot; to reset</translation>
     </message>
     <message>
         <source>2. 点击“基座检测”开始</source>
-        <translation type="unfinished">2. Click &quot;Base Inspection&quot; to start</translation>
+        <translation type="obsolete">2. Click &quot;Base Inspection&quot; to start</translation>
     </message>
     <message>
         <source>3. 点击“基座标定”开始，注：此时电机会有轻微角度转动，如未转动可重新点击开始</source>
-        <translation type="unfinished">3. Click &quot;base calibration&quot; to start, note: at this time the motor will have a slight angle rotation, such as no rotation can be re-clicked to start</translation>
+        <translation type="obsolete">3. Click &quot;base calibration&quot; to start, note: at this time the motor will have a slight angle rotation, such as no rotation can be re-clicked to start</translation>
     </message>
     <message>
         <source>4. 点击“齿槽转矩标定”，注：此时电机会左右各转一圈，如未转动可重新点击开始</source>
-        <translation type="unfinished">4. Click &quot;slot torque calibration&quot;, note: at this time, the motor will turn around once each, if it does not turn, click again to start</translation>
+        <translation type="obsolete">4. Click &quot;slot torque calibration&quot;, note: at this time, the motor will turn around once each, if it does not turn, click again to start</translation>
     </message>
     <message>
         <source>5. 手动重启基座</source>
-        <translation type="unfinished">5. Manually restart the Wheel Base</translation>
+        <translation type="obsolete">5. Manually restart the Wheel Base</translation>
     </message>
     <message>
         <source>检查更新</source>
@@ -3602,6 +3602,146 @@ If a Preset Mode corresponds to multiple presets, hovering over the correspondin
     <message>
         <source>链接</source>
         <translation type="unfinished">Links</translation>
+    </message>
+    <message>
+        <source>KS 方向盘</source>
+        <translation type="unfinished">KS Steering Wheel</translation>
+    </message>
+    <message>
+        <source>KS/GS/FSR 方向盘</source>
+        <translation type="unfinished">KS/GS/FSR Steering Wheel</translation>
+    </message>
+    <message>
+        <source>KS/GS/FSR方向盘实际惯量比</source>
+        <translation type="unfinished">KS/GS/FSR Steering Wheel Inertia Ratio</translation>
+    </message>
+    <message>
+        <source>基座参数备份中</source>
+        <translation type="unfinished">Base parameter backup in progress</translation>
+    </message>
+    <message>
+        <source>基座参数恢复中</source>
+        <translation type="unfinished">Base parameter recovery in progress</translation>
+    </message>
+    <message>
+        <source>最新的MOZA Pit House %1 现在可更新(您是%2)，需立即下载更新吗？</source>
+        <translation type="unfinished">The latest MOZA Pit House %1 is now available for update (you are %2), do you need to download the update now?</translation>
+    </message>
+    <message>
+        <source>升级新版的Pit house可能会出现问题，如果在升级后遇到问题，可在实验性功能页面选择之前的版本进行回退，并将问题反馈给MOZA售后人员。</source>
+        <translation type="unfinished">Upgrading to the new version of Pit House may cause issues. If you encounter any problems after upgrading, you can choose to roll back to the previous version from the Experimental Function page and report the issue to us.</translation>
+    </message>
+    <message>
+        <source>暗黑模式</source>
+        <translation type="unfinished">Dark Mode</translation>
+    </message>
+    <message>
+        <source>关闭pit house时保持在后台运行</source>
+        <translation type="unfinished">Keeps background running when closed</translation>
+    </message>
+    <message>
+        <source>代理模式</source>
+        <translation type="unfinished">Proxy mode</translation>
+    </message>
+    <message>
+        <source>如果遇到上传错误报告，无法获取新固件，无法更新程序，设备激活失败等网络问题，请尝试开启开启代理模式解决</source>
+        <translation type="unfinished">If you encounter network problems such as upload error report, can&apos;t get new firmware, can&apos;t update program, device activation failure, etc., please try to turn on the proxy mode to solve</translation>
+    </message>
+    <message>
+        <source>修改后，需要重启程序才能生效</source>
+        <translation type="unfinished">After modification, you need to restart the program to take effect</translation>
+    </message>
+    <message>
+        <source>暂不重启</source>
+        <translation type="unfinished">No restart for now</translation>
+    </message>
+    <message>
+        <source>立即重启</source>
+        <translation type="unfinished">Restart immediately</translation>
+    </message>
+    <message>
+        <source>代理模式更改后需要重启程序才生效</source>
+        <translation type="unfinished">You need to restart the program after changing the proxy mode to take effect</translation>
+    </message>
+    <message>
+        <source>软件更新</source>
+        <translation type="unfinished">Software Updates</translation>
+    </message>
+    <message>
+        <source>访问失败</source>
+        <translation type="unfinished">Access failure</translation>
+    </message>
+    <message>
+        <source>售后客服</source>
+        <translation type="unfinished">After Sales Service</translation>
+    </message>
+    <message>
+        <source>固件升级提示</source>
+        <translation type="unfinished">Firmware Upgrade Tips</translation>
+    </message>
+    <message>
+        <source>固件升级有可能出现问题，请谨慎升级，若对当前力反馈和稳定性满意，则不建议升级。若升级后出现影响使用的问题，请点击“回退固件版本”，下载“上一次最新的固件升级工具“，回退到上一个版本，并将新版本的问题反馈给MOZA售后人员。</source>
+        <translation type="unfinished">Firmware upgrade may encounter problems, so please proceed with caution. If you are satisfied with the current force feedback and stability, we do not recommend upgrading. If you encounter any issues after the upgrade that affect usability, please click on &quot;Rollback Firmware Version&quot; and download the &quot;previous latest firmware upgrade tool&quot; to revert to the previous version. Please also provide error report to MOZA customer support.</translation>
+    </message>
+    <message>
+        <source>取消更新</source>
+        <translation type="unfinished">Cancel Update</translation>
+    </message>
+    <message>
+        <source>确定更新 %1</source>
+        <translation type="unfinished">Determine update %1</translation>
+    </message>
+    <message>
+        <source>蓝牙</source>
+        <translation type="unfinished">Bluetooth</translation>
+    </message>
+    <message>
+        <source>蓝牙开启后，可以连接基座蓝牙，支持对基座、方向盘、仪表盘显示进行自定义调整参数</source>
+        <translation type="unfinished">Once the Bluetooth is turned on, it allows for connection to the wheelbase&apos;s Bluetooth and supports custom adjustment of parameters for the wheelbase, steering wheel, and dashboard display</translation>
+    </message>
+    <message>
+        <source>端口22023被占用，无法通过UDP获取遥测数据。</source>
+        <translation type="unfinished">Port 22023 is occupied and no telemetry data can be obtained via UDP.</translation>
+    </message>
+    <message>
+        <source>按键编号</source>
+        <translation type="unfinished">Button number</translation>
+    </message>
+    <message>
+        <source>常规型车</source>
+        <translation type="unfinished">Standard car</translation>
+    </message>
+    <message>
+        <source>小型卡车</source>
+        <translation type="unfinished">Small truck</translation>
+    </message>
+    <message>
+        <source>重型卡车</source>
+        <translation type="unfinished">Heavy-duty truck</translation>
+    </message>
+    <message>
+        <source>设备检测失败</source>
+        <translation type="unfinished">Device detection failed</translation>
+    </message>
+    <message>
+        <source>无法识别设备，请尝试在设备管理器中更改设备端口号并重启电脑解决。如果更改端口号后Pithouse仍无法识别设备，请联系售后人员处理。</source>
+        <translation type="unfinished">Unable to recognize device. Please try changing the device port number in Device Manager and restart your computer to resolve the issue. If Pithouse still fails to recognize the device after changing the port number, please contact customer support for further assistance.</translation>
+    </message>
+    <message>
+        <source>操作流程请看%1</source>
+        <translation type="unfinished">Please see %1 for the operation procedure</translation>
+    </message>
+    <message>
+        <source>高频振动</source>
+        <translation type="unfinished">HF Vibration</translation>
+    </message>
+    <message>
+        <source>如果认为高频振动或共振过于强烈，请将100Hz的高频振动调低或调到0。</source>
+        <translation type="unfinished">If the high frequency vibrations or resonance are too strong, please adjust the &quot;HF vibration&quot; at 100Hz to lower value or even zero.</translation>
+    </message>
+    <message>
+        <source>设备当前处于Xbox Mode 不能调节设备参数</source>
+        <translation type="unfinished">The device is currently in Xbox Mode and cannot be configured</translation>
     </message>
 </context>
 <context>

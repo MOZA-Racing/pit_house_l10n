@@ -133,15 +133,15 @@
     </message>
     <message>
         <source>切换皮肤</source>
-        <translation type="unfinished">切換皮膚</translation>
+        <translation type="obsolete">切換皮膚</translation>
     </message>
     <message>
         <source>明亮</source>
-        <translation type="unfinished">明亮</translation>
+        <translation type="obsolete">明亮</translation>
     </message>
     <message>
         <source>暗黑</source>
-        <translation type="unfinished">暗黑</translation>
+        <translation type="obsolete">暗黑</translation>
     </message>
     <message>
         <source>开机自启动</source>
@@ -149,11 +149,11 @@
     </message>
     <message>
         <source>启用</source>
-        <translation type="unfinished">啟用</translation>
+        <translation type="obsolete">啟用</translation>
     </message>
     <message>
         <source>禁用</source>
-        <translation type="unfinished">禁用</translation>
+        <translation type="obsolete">禁用</translation>
     </message>
     <message>
         <source>开机自启动时隐藏至系统托盘</source>
@@ -161,7 +161,7 @@
     </message>
     <message>
         <source>关闭主面板</source>
-        <translation type="unfinished">關閉主面板</translation>
+        <translation type="obsolete">關閉主面板</translation>
     </message>
     <message>
         <source>最小化到系统托盘</source>
@@ -173,19 +173,19 @@
     </message>
     <message>
         <source>当前版本</source>
-        <translation type="unfinished">當前版本</translation>
+        <translation type="obsolete">當前版本</translation>
     </message>
     <message>
         <source>检查Pit House版本更新</source>
-        <translation type="unfinished">檢查Pit House版本更新</translation>
+        <translation type="obsolete">檢查Pit House版本更新</translation>
     </message>
     <message>
         <source>版本检测</source>
-        <translation type="unfinished">版本檢測</translation>
+        <translation type="obsolete">版本檢測</translation>
     </message>
     <message>
         <source>启动维护工具</source>
-        <translation type="unfinished">啟動維護工具</translation>
+        <translation type="obsolete">啟動維護工具</translation>
     </message>
     <message>
         <source>错误报告工具</source>
@@ -527,11 +527,11 @@
     </message>
     <message>
         <source>用于调试遥测数据不同步的问题。</source>
-        <translation type="unfinished">用于調試遙測數據不同步的問題。</translation>
+        <translation type="obsolete">用于調試遙測數據不同步的問題。</translation>
     </message>
     <message>
         <source>注意：调试过程中可以会出现卡顿，cpu占用高等异常</source>
-        <translation type="unfinished">注意：調試過程中可以會出現卡頓，cpu占用高等異常</translation>
+        <translation type="obsolete">注意：調試過程中可以會出現卡頓，cpu占用高等異常</translation>
     </message>
     <message>
         <source>不支持</source>
@@ -598,8 +598,8 @@
         <translation type="unfinished">個人資料</translation>
     </message>
     <message>
-        <source>Copyright © 2015-2022 Gudsen Technology Co., Ltd. All rights reserved.</source>
-        <translation type="unfinished">Copyright © 2015-2022 Gudsen Technology Co., Ltd. All rights reserved.</translation>
+        <source>Copyright © 2015-2023 Gudsen Technology Co., Ltd. All rights reserved.</source>
+        <translation type="obsolete">Copyright © 2015-2023 Gudsen Technology Co., Ltd. All rights reserved.</translation>
     </message>
     <message>
         <source>操作进行中，请耐心等待...</source>
@@ -855,43 +855,43 @@
     </message>
     <message>
         <source>重要提示</source>
-        <translation type="unfinished">重要提示</translation>
+        <translation type="obsolete">重要提示</translation>
     </message>
     <message>
         <source>### 本次更新说明</source>
-        <translation type="unfinished">### 本次更新說明</translation>
+        <translation type="obsolete">### 本次更新說明</translation>
     </message>
     <message>
         <source>- 同步不同设备力回馈解析效果。</source>
-        <translation type="unfinished">- 同步不同設備力回饋解析效果。</translation>
+        <translation type="obsolete">- 同步不同設備力回饋解析效果。</translation>
     </message>
     <message>
         <source>- 针对电机转动时的齿槽转矩，进行了算法补偿，因此本次更新需要在“恢复和重置”页中&lt;strong&gt;&lt;font color=&quot;red&quot;&gt;重新标定&lt;/font&gt;&lt;/strong&gt;电机相关参数。</source>
-        <translation type="unfinished">- 針對電機轉動時的齒槽轉矩，進行了算法補償，因此本次更新需要在“恢復和重置”頁中&lt;strong&gt;&lt;font color=&quot;red&quot;&gt;重新標定&lt;/font&gt;&lt;/strong&gt;電機相關參數。</translation>
+        <translation type="obsolete">- 針對電機轉動時的齒槽轉矩，進行了算法補償，因此本次更新需要在“恢復和重置”頁中&lt;strong&gt;&lt;font color=&quot;red&quot;&gt;重新標定&lt;/font&gt;&lt;/strong&gt;電機相關參數。</translation>
     </message>
     <message>
         <source>### 重新标定流程(流程必须严格按照顺序)</source>
-        <translation type="unfinished">### 重新標定流程(流程必須嚴格按照順序)</translation>
+        <translation type="obsolete">### 重新標定流程(流程必須嚴格按照順序)</translation>
     </message>
     <message>
         <source>1. 点击“基座参数复位”复位</source>
-        <translation type="unfinished">1. 點擊“基座參數復位”復位</translation>
+        <translation type="obsolete">1. 點擊“基座參數復位”復位</translation>
     </message>
     <message>
         <source>2. 点击“基座检测”开始</source>
-        <translation type="unfinished">2. 點擊“基座檢測”開始</translation>
+        <translation type="obsolete">2. 點擊“基座檢測”開始</translation>
     </message>
     <message>
         <source>3. 点击“基座标定”开始，注：此时电机会有轻微角度转动，如未转动可重新点击开始</source>
-        <translation type="unfinished">3. 點擊“基座標定”開始，注：此時電機會有輕微角度轉動，如未轉動可重新點擊開始</translation>
+        <translation type="obsolete">3. 點擊“基座標定”開始，注：此時電機會有輕微角度轉動，如未轉動可重新點擊開始</translation>
     </message>
     <message>
         <source>4. 点击“齿槽转矩标定”，注：此时电机会左右各转一圈，如未转动可重新点击开始</source>
-        <translation type="unfinished">4. 點擊“齒槽轉矩標定”，注：此時電機會左右各轉一圈，如未轉動可重新點擊開始</translation>
+        <translation type="obsolete">4. 點擊“齒槽轉矩標定”，注：此時電機會左右各轉一圈，如未轉動可重新點擊開始</translation>
     </message>
     <message>
         <source>5. 手动重启基座</source>
-        <translation type="unfinished">5. 手動重啟基座</translation>
+        <translation type="obsolete">5. 手動重啟基座</translation>
     </message>
     <message>
         <source>基座</source>
@@ -931,7 +931,7 @@
     </message>
     <message>
         <source>最新的MOZA Pit House v%1 可用，是否立即更新下载？</source>
-        <translation type="unfinished">最新的MOZA Pit House v%1 可用，是否立即更新下載？</translation>
+        <translation type="obsolete">最新的MOZA Pit House v%1 可用，是否立即更新下載？</translation>
     </message>
     <message>
         <source>发行说明：</source>
@@ -1087,7 +1087,7 @@
     </message>
     <message>
         <source>方向盘未连接</source>
-        <translation type="unfinished">方向盤未連接</translation>
+        <translation type="obsolete">方向盤未連接</translation>
     </message>
     <message>
         <source>方向盘处于升级模式</source>
@@ -1189,7 +1189,7 @@
     </message>
     <message>
         <source>换挡器未连接</source>
-        <translation type="unfinished">換擋器未連接</translation>
+        <translation type="obsolete">換擋器未連接</translation>
     </message>
     <message>
         <source>换挡器处于升级模式</source>
@@ -1467,59 +1467,59 @@
     </message>
     <message>
         <source>固件版本是1.2.0.30或以上：同时按下%1和%2，可修改最大转向角为%3°</source>
-        <translation type="unfinished">固件版本是1.2.0.30或以上：同時按下%1和%2，可修改最大轉向角為%3°</translation>
+        <translation type="obsolete">固件版本是1.2.0.30或以上：同時按下%1和%2，可修改最大轉向角為%3°</translation>
     </message>
     <message>
         <source>该拨片</source>
-        <translation type="unfinished">該撥片</translation>
+        <translation type="obsolete">該撥片</translation>
     </message>
     <message>
         <source>左摇杆</source>
-        <translation type="unfinished">左搖桿</translation>
+        <translation type="obsolete">左搖桿</translation>
     </message>
     <message>
         <source>右摇杆</source>
-        <translation type="unfinished">右搖桿</translation>
+        <translation type="obsolete">右搖桿</translation>
     </message>
     <message>
         <source>左旋钮</source>
-        <translation type="unfinished">左旋鈕</translation>
+        <translation type="obsolete">左旋鈕</translation>
     </message>
     <message>
         <source>右旋钮</source>
-        <translation type="unfinished">右旋鈕</translation>
+        <translation type="obsolete">右旋鈕</translation>
     </message>
     <message>
         <source>固件版本是1.2.0.0或以上：按下该拨片，拨动左摇杆，可切换仪表盘UI风格</source>
-        <translation type="unfinished">固件版本是1.2.0.0或以上：按下該撥片，撥動左搖桿，可切換儀表盤UI風格</translation>
+        <translation type="obsolete">固件版本是1.2.0.0或以上：按下該撥片，撥動左搖桿，可切換儀表盤UI風格</translation>
     </message>
     <message>
         <source>固件版本是1.2.0.0或以上：按下右侧下方拨片，拨动该摇杆，可切换仪表盘UI风格</source>
-        <translation type="unfinished">固件版本是1.2.0.0或以上：按下右側下方撥片，撥動該搖桿，可切換儀表盤UI風格</translation>
+        <translation type="obsolete">固件版本是1.2.0.0或以上：按下右側下方撥片，撥動該搖桿，可切換儀表盤UI風格</translation>
     </message>
     <message>
         <source>左侧下方拨片</source>
-        <translation type="unfinished">左側下方撥片</translation>
+        <translation type="obsolete">左側下方撥片</translation>
     </message>
     <message>
         <source>该摇杆</source>
-        <translation type="unfinished">該搖桿</translation>
+        <translation type="obsolete">該搖桿</translation>
     </message>
     <message>
         <source>该旋钮</source>
-        <translation type="unfinished">該旋鈕</translation>
+        <translation type="obsolete">該旋鈕</translation>
     </message>
     <message>
         <source>可在游戏设置该拨片</source>
-        <translation type="unfinished">可在游戲設置該撥片</translation>
+        <translation type="obsolete">可在游戲設置該撥片</translation>
     </message>
     <message>
         <source>可在游戏设置该摇杆</source>
-        <translation type="unfinished">可在游戲設置該搖桿</translation>
+        <translation type="obsolete">可在游戲設置該搖桿</translation>
     </message>
     <message>
         <source>可在游戏设置该旋钮</source>
-        <translation type="unfinished">可在游戲設置該旋鈕</translation>
+        <translation type="obsolete">可在游戲設置該旋鈕</translation>
     </message>
     <message>
         <source>可在游戏设置该按键
@@ -1529,23 +1529,23 @@
     </message>
     <message>
         <source>左拇指旋钮</source>
-        <translation type="unfinished">左拇指旋鈕</translation>
+        <translation type="obsolete">左拇指旋鈕</translation>
     </message>
     <message>
         <source>右拇指旋钮</source>
-        <translation type="unfinished">右拇指旋鈕</translation>
+        <translation type="obsolete">右拇指旋鈕</translation>
     </message>
     <message>
         <source>长按两侧拇指旋钮进入或退出按键调节模式</source>
-        <translation type="unfinished">長按兩側拇指旋鈕進入或退出按鍵調節模式</translation>
+        <translation type="obsolete">長按兩側拇指旋鈕進入或退出按鍵調節模式</translation>
     </message>
     <message>
         <source>该拇指旋钮</source>
-        <translation type="unfinished">該拇指旋鈕</translation>
+        <translation type="obsolete">該拇指旋鈕</translation>
     </message>
     <message>
         <source>可在游戏设置该拇指旋钮</source>
-        <translation type="unfinished">可在游戲設置該拇指旋鈕</translation>
+        <translation type="obsolete">可在游戲設置該拇指旋鈕</translation>
     </message>
     <message>
         <source>可在游戏设置该波段旋钮</source>
@@ -1553,15 +1553,15 @@
     </message>
     <message>
         <source>固件版本是1.2.0.0或以上：按下右侧拨片，拨动该摇杆，可切换仪表盘UI风格</source>
-        <translation type="unfinished">固件版本是1.2.0.0或以上：按下右側撥片，撥動該搖桿，可切換儀表盤UI風格</translation>
+        <translation type="obsolete">固件版本是1.2.0.0或以上：按下右側撥片，撥動該搖桿，可切換儀表盤UI風格</translation>
     </message>
     <message>
         <source>左侧拨片</source>
-        <translation type="unfinished">左側撥片</translation>
+        <translation type="obsolete">左側撥片</translation>
     </message>
     <message>
         <source>可在游戏中设置喇叭按钮效果</source>
-        <translation type="unfinished">可在游戲中設置喇叭按鈕效果</translation>
+        <translation type="obsolete">可在游戲中設置喇叭按鈕效果</translation>
     </message>
     <message>
         <source>最大转向角</source>
@@ -1693,11 +1693,11 @@
     </message>
     <message>
         <source>GS/FSR 方向盘</source>
-        <translation type="unfinished">GS/FSR 方向盤</translation>
+        <translation type="obsolete">GS/FSR 方向盤</translation>
     </message>
     <message>
         <source>GS/FSR方向盘实际惯量比</source>
-        <translation type="unfinished">GS/FSR方向盤實際慣量比</translation>
+        <translation type="obsolete">GS/FSR方向盤實際慣量比</translation>
     </message>
     <message>
         <source>ES 方向盘</source>
@@ -2177,11 +2177,11 @@
     </message>
     <message>
         <source>基座未连接</source>
-        <translation type="unfinished">基座未連接</translation>
+        <translation type="obsolete">基座未連接</translation>
     </message>
     <message>
         <source>基座处于升级模式</source>
-        <translation type="unfinished">基座處于升級模式</translation>
+        <translation type="obsolete">基座處于升級模式</translation>
     </message>
     <message>
         <source>基座自动回中进行...</source>
@@ -2379,15 +2379,15 @@
     </message>
     <message>
         <source>%1未连接</source>
-        <translation type="unfinished">%1未連接</translation>
+        <translation type="obsolete">%1未連接</translation>
     </message>
     <message>
         <source>、</source>
-        <translation type="unfinished">、</translation>
+        <translation type="obsolete">、</translation>
     </message>
     <message>
         <source>%1处于升级模式</source>
-        <translation type="unfinished">%1處于升級模式</translation>
+        <translation type="obsolete">%1處于升級模式</translation>
     </message>
     <message>
         <source>当前运行游戏</source>
@@ -2463,7 +2463,7 @@
     </message>
     <message>
         <source>手刹未连接</source>
-        <translation type="unfinished">手剎未連接</translation>
+        <translation type="obsolete">手剎未連接</translation>
     </message>
     <message>
         <source>手刹处于升级模式</source>
@@ -2719,7 +2719,7 @@
     </message>
     <message>
         <source>仪表盘未连接</source>
-        <translation type="unfinished">儀表盤未連接</translation>
+        <translation type="obsolete">儀表盤未連接</translation>
     </message>
     <message>
         <source>仪表盘处于升级模式</source>
@@ -3606,6 +3606,146 @@
     <message>
         <source>链接</source>
         <translation type="unfinished">鏈接</translation>
+    </message>
+    <message>
+        <source>KS 方向盘</source>
+        <translation type="unfinished">KS 方向盤</translation>
+    </message>
+    <message>
+        <source>KS/GS/FSR 方向盘</source>
+        <translation type="unfinished">KS/GS/FSR 方向盤</translation>
+    </message>
+    <message>
+        <source>KS/GS/FSR方向盘实际惯量比</source>
+        <translation type="unfinished">KS/GS/FSR方向盤實際慣量比</translation>
+    </message>
+    <message>
+        <source>基座参数备份中</source>
+        <translation type="unfinished">基座參數備份中</translation>
+    </message>
+    <message>
+        <source>基座参数恢复中</source>
+        <translation type="unfinished">基座參數恢複中</translation>
+    </message>
+    <message>
+        <source>最新的MOZA Pit House %1 现在可更新(您是%2)，需立即下载更新吗？</source>
+        <translation type="unfinished">最新的MOZA Pit House %1 現在可更新(您是%2)，需立即下載更新嗎？</translation>
+    </message>
+    <message>
+        <source>升级新版的Pit house可能会出现问题，如果在升级后遇到问题，可在实验性功能页面选择之前的版本进行回退，并将问题反馈给MOZA售后人员。</source>
+        <translation type="unfinished">升級新版的Pit house可能會出現問題，如果在升級後遇到問題，可在實驗性功能頁面選擇之前的版本進行回退，並將問題反饋給MOZA售後人員。</translation>
+    </message>
+    <message>
+        <source>暗黑模式</source>
+        <translation type="unfinished">暗黑模式</translation>
+    </message>
+    <message>
+        <source>关闭pit house时保持在后台运行</source>
+        <translation type="unfinished">關閉pit house時保持在後台運行</translation>
+    </message>
+    <message>
+        <source>代理模式</source>
+        <translation type="unfinished">代理模式</translation>
+    </message>
+    <message>
+        <source>如果遇到上传错误报告，无法获取新固件，无法更新程序，设备激活失败等网络问题，请尝试开启开启代理模式解决</source>
+        <translation type="unfinished">如果遇到上傳錯誤報告，無法獲取新固件，無法更新程序，設備激活失敗等網絡問題，請嘗試開啓開啓代理模式解決</translation>
+    </message>
+    <message>
+        <source>修改后，需要重启程序才能生效</source>
+        <translation type="unfinished">修改後，需要重啓程序才能生效</translation>
+    </message>
+    <message>
+        <source>暂不重启</source>
+        <translation type="unfinished">暫不重啓</translation>
+    </message>
+    <message>
+        <source>立即重启</source>
+        <translation type="unfinished">立即重啓</translation>
+    </message>
+    <message>
+        <source>代理模式更改后需要重启程序才生效</source>
+        <translation type="unfinished">代理模式更改後需要重啓程序才生效</translation>
+    </message>
+    <message>
+        <source>软件更新</source>
+        <translation type="unfinished">軟件更新</translation>
+    </message>
+    <message>
+        <source>访问失败</source>
+        <translation type="unfinished">訪問失敗</translation>
+    </message>
+    <message>
+        <source>售后客服</source>
+        <translation type="unfinished">售後客服</translation>
+    </message>
+    <message>
+        <source>固件升级提示</source>
+        <translation type="unfinished">固件升級提示</translation>
+    </message>
+    <message>
+        <source>固件升级有可能出现问题，请谨慎升级，若对当前力反馈和稳定性满意，则不建议升级。若升级后出现影响使用的问题，请点击“回退固件版本”，下载“上一次最新的固件升级工具“，回退到上一个版本，并将新版本的问题反馈给MOZA售后人员。</source>
+        <translation type="unfinished">固件升級有可能出現問題，請謹慎升級，若對當前力反饋和穩定性滿意，則不建議升級。若升級後出現影響使用的問題，請點擊“回退固件版本”，下載“上壹次最新的固件升級工具“，回退到上壹個版本，並將新版本的問題反饋給MOZA售後人員。</translation>
+    </message>
+    <message>
+        <source>取消更新</source>
+        <translation type="unfinished">取消更新</translation>
+    </message>
+    <message>
+        <source>确定更新 %1</source>
+        <translation type="unfinished">確定更新 %1</translation>
+    </message>
+    <message>
+        <source>蓝牙</source>
+        <translation type="unfinished">藍牙</translation>
+    </message>
+    <message>
+        <source>蓝牙开启后，可以连接基座蓝牙，支持对基座、方向盘、仪表盘显示进行自定义调整参数</source>
+        <translation type="unfinished">藍牙開啓後，可以連接基座藍牙，支持對基座、方向盤、儀表盤顯示進行自定義調整參數</translation>
+    </message>
+    <message>
+        <source>端口22023被占用，无法通过UDP获取遥测数据。</source>
+        <translation type="unfinished">端口22023被占用，無法通過UDP獲取遙測數據。</translation>
+    </message>
+    <message>
+        <source>按键编号</source>
+        <translation type="unfinished">按鍵編號</translation>
+    </message>
+    <message>
+        <source>常规型车</source>
+        <translation type="unfinished">常規型車</translation>
+    </message>
+    <message>
+        <source>小型卡车</source>
+        <translation type="unfinished">小型卡車</translation>
+    </message>
+    <message>
+        <source>重型卡车</source>
+        <translation type="unfinished">重型卡車</translation>
+    </message>
+    <message>
+        <source>设备检测失败</source>
+        <translation type="unfinished">設備檢測失敗</translation>
+    </message>
+    <message>
+        <source>无法识别设备，请尝试在设备管理器中更改设备端口号并重启电脑解决。如果更改端口号后Pithouse仍无法识别设备，请联系售后人员处理。</source>
+        <translation type="unfinished">無法識別設備，請嘗試在設備管理器中更改設備端口號並重啓電腦解決。如果更改端口號後Pithouse仍無法識別設備，請聯系售後人員處理。</translation>
+    </message>
+    <message>
+        <source>操作流程请看%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>高频振动</source>
+        <translation type="unfinished">高頻震動</translation>
+    </message>
+    <message>
+        <source>如果认为高频振动或共振过于强烈，请将100Hz的高频振动调低或调到0。</source>
+        <translation type="unfinished">如果認為高頻震動或共振過於強烈，請將100Hz的高頻震調低或調到0。</translation>
+    </message>
+    <message>
+        <source>设备当前处于Xbox Mode 不能调节设备参数</source>
+        <translation type="unfinished">設備當前處于Xbox Mode 不能調節設備參數</translation>
     </message>
 </context>
 <context>
