@@ -865,7 +865,7 @@
     </message>
     <message>
         <source>摇杆模式</source>
-        <translation>Режим механики</translation>
+        <translation>Режим "Stick"</translation>
     </message>
     <message>
         <source>十字键</source>
@@ -1449,7 +1449,7 @@
     </message>
     <message>
         <source>最大输出扭矩限制</source>
-        <translation>Отдача руля</translation>
+        <translation>Максимальный крутящий момент</translation>
     </message>
     <message>
         <source>允许电机的最大输出扭矩。防止过大的力反馈带来的伤害。手劲需求小的用户建议把此参数调小，避免误设置导致力反馈太大。</source>
@@ -1878,7 +1878,7 @@
     </message>
     <message>
         <source>机械回中强度</source>
-        <translation>Механическая отдача руля</translation>
+        <translation>Механическая пружина</translation>
     </message>
     <message>
         <source>模拟出一个任何时候都有的回中力效果，适用于游戏本身就没有力回馈的娱乐赛车游戏。
@@ -1903,7 +1903,7 @@
     </message>
     <message>
         <source>机械阻尼</source>
-        <translation>Программная отдача руля</translation>
+        <translation>Механический демпфер</translation>
     </message>
     <message>
         <source>模拟一个与游戏输出无关的阻尼力，阻尼力随着方向盘转速增大而线性地增加。
